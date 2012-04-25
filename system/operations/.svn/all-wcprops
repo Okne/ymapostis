@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/operations
+END
+localization.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/operations/localization.py
+END
+play_user_cmds.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ostis/!svn/ver/1182/trunk/ui/system/operations/play_user_cmds.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ostis/!svn/ver/1182/trunk/ui/system/operations/__init__.py
+END
+output.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/738/trunk/ui/system/operations/output.py
+END

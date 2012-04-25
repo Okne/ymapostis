@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ostis/!svn/ver/1151/trunk/ui/suit/suit/core/layout
+END
+LayoutManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ostis/!svn/ver/1107/trunk/ui/suit/suit/core/layout/LayoutManager.py
+END
+LayoutOrder.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/layout/LayoutOrder.py
+END
+LayoutGroup.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ostis/!svn/ver/1151/trunk/ui/suit/suit/core/layout/LayoutGroup.py
+END
+LayoutGroupForceDirected.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ostis/!svn/ver/1151/trunk/ui/suit/suit/core/layout/LayoutGroupForceDirected.py
+END
+Tree.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/layout/Tree.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ostis/!svn/ver/1176/trunk/ui/suit/suit/core/layout/__init__.py
+END
+LayoutGroupForceDirected2.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ostis/!svn/ver/1151/trunk/ui/suit/suit/core/layout/LayoutGroupForceDirected2.py
+END
+LayoutGroupLine.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/layout/LayoutGroupLine.py
+END
+LayoutSimple.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/layout/LayoutSimple.py
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ostis/!svn/ver/1130/trunk/ui/suit/suit/cf
+END
+VisualMenu.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ostis/!svn/ver/556/trunk/ui/suit/suit/cf/VisualMenu.py
+END
+BaseViewMode.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/cf/BaseViewMode.py
+END
+BaseModeLogic.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ostis/!svn/ver/1175/trunk/ui/suit/suit/cf/BaseModeLogic.py
+END
+BaseMode.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ostis/!svn/ver/1175/trunk/ui/suit/suit/cf/BaseMode.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ostis/!svn/ver/815/trunk/ui/suit/suit/cf/__init__.py
+END
+flymode.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/cf/flymode.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/cf/utils.py
+END
+ToolBar.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ostis/!svn/ver/707/trunk/ui/suit/suit/cf/ToolBar.py
+END
+TextInput.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ostis/!svn/ver/1180/trunk/ui/suit/suit/cf/TextInput.py
+END
+BaseEditMode.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ostis/!svn/ver/1130/trunk/ui/suit/suit/cf/BaseEditMode.py
+END

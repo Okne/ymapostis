@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ostis/!svn/ver/879/trunk/tools/SCnML2SC/src/SCnML2SC
+END
+translator.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ostis/!svn/ver/746/trunk/tools/SCnML2SC/src/SCnML2SC/translator.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ostis/!svn/ver/659/trunk/tools/SCnML2SC/src/SCnML2SC/__init__.py
+END
+SCnML2SC.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ostis/!svn/ver/879/trunk/tools/SCnML2SC/src/SCnML2SC/SCnML2SC.py
+END
+grammar.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ostis/!svn/ver/797/trunk/tools/SCnML2SC/src/SCnML2SC/grammar.py
+END

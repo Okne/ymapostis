@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ostis/!svn/ver/1177/trunk/ui/system/repo/fs_repo_src
+END
+info.scs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/repo/fs_repo_src/info.scs
+END
+users.scs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ostis/!svn/ver/422/trunk/ui/system/repo/fs_repo_src/users.scs
+END
+startup.scs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ostis/!svn/ver/1181/trunk/ui/system/repo/fs_repo_src/startup.scs
+END

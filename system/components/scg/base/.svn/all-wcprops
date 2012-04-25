@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/1143/trunk/ui/system/components/scg/base
+END
+scg_alphabet.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ostis/!svn/ver/1069/trunk/ui/system/components/scg/base/scg_alphabet.py
+END
+scg_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ostis/!svn/ver/1078/trunk/ui/system/components/scg/base/scg_utils.py
+END
+scg_keynodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/components/scg/base/scg_keynodes.py
+END
+scg_viewer.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ostis/!svn/ver/1097/trunk/ui/system/components/scg/base/scg_viewer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/components/scg/base/__init__.py
+END
+scg_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ostis/!svn/ver/313/trunk/ui/system/components/scg/base/scg_init.py
+END
+scg_controls.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ostis/!svn/ver/1120/trunk/ui/system/components/scg/base/scg_controls.py
+END
+scg_environment.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ostis/!svn/ver/1114/trunk/ui/system/components/scg/base/scg_environment.py
+END
+scg_editor.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ostis/!svn/ver/1063/trunk/ui/system/components/scg/base/scg_editor.py
+END
+scg_modes.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ostis/!svn/ver/1188/trunk/ui/system/components/scg/base/scg_modes.py
+END
+sc2scg.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ostis/!svn/ver/1080/trunk/ui/system/components/scg/base/sc2scg.py
+END
+scg2sc.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ostis/!svn/ver/1078/trunk/ui/system/components/scg/base/scg2sc.py
+END
+scg_help.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/components/scg/base/scg_help.py
+END
+scg_objects.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ostis/!svn/ver/1143/trunk/ui/system/components/scg/base/scg_objects.py
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ostis/!svn/ver/1114/trunk/ui/system/components/LUI/core/LSPL_parse_bin
+END
+_LsplParser.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ostis/!svn/ver/1114/trunk/ui/system/components/LUI/core/LSPL_parse_bin/_LsplParser.pyd
+END
+lspl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ostis/!svn/ver/1114/trunk/ui/system/components/LUI/core/LSPL_parse_bin/lspl.dll
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ostis/!svn/ver/1114/trunk/ui/system/components/LUI/core/LSPL_parse_bin/__init__.py
+END
+libstdc++-6.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ostis/!svn/ver/1114/trunk/ui/system/components/LUI/core/LSPL_parse_bin/libstdc++-6.dll
+END
+iconv.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ostis/!svn/ver/1114/trunk/ui/system/components/LUI/core/LSPL_parse_bin/iconv.dll
+END
+libgcc_s_dw2-1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ostis/!svn/ver/1114/trunk/ui/system/components/LUI/core/LSPL_parse_bin/libgcc_s_dw2-1.dll
+END
+libpcre.dll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ostis/!svn/ver/1114/trunk/ui/system/components/LUI/core/LSPL_parse_bin/libpcre.dll
+END
+libpcrecpp.dll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ostis/!svn/ver/1114/trunk/ui/system/components/LUI/core/LSPL_parse_bin/libpcrecpp.dll
+END
+LsplParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ostis/!svn/ver/1114/trunk/ui/system/components/LUI/core/LSPL_parse_bin/LsplParser.py
+END
+testLsplParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ostis/!svn/ver/1114/trunk/ui/system/components/LUI/core/LSPL_parse_bin/testLsplParser.py
+END

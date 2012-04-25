@@ -1,0 +1,51 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 24
+/svnroot/ostis/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/ostis/!svn/ver/1170/trunk/ui/suit
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/ostis/!svn/ver/242/trunk/ui/suit/BUGS
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ostis/!svn/ver/242/trunk/ui/suit/COPYING.LESSER
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ostis/!svn/ver/242/trunk/ui/suit/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ostis/!svn/ver/242/trunk/ui/suit/INSTALL
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ostis/!svn/ver/242/trunk/ui/suit/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/ostis/!svn/ver/242/trunk/ui/suit/README
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/mygui
+END
+_mygui_.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/mygui/_mygui_.pyd
+END
+MyGUI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/mygui/MyGUI.dll
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/mygui/__init__.py
+END
+pyidx.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/mygui/pyidx.dll
+END

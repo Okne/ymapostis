@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ostis/!svn/ver/793/trunk/ui/system/components/video
+END
+video_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ostis/!svn/ver/738/trunk/ui/system/components/video/video_init.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/video/__init__.py
+END
+video_viewer.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ostis/!svn/ver/793/trunk/ui/system/components/video/video_viewer.py
+END

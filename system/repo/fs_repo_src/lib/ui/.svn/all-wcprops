@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/lib/ui
+END
+change_localization.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/lib/ui/change_localization.m4scp
+END
+remove_child_command.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ostis/!svn/ver/747/trunk/ui/system/repo/fs_repo_src/lib/ui/remove_child_command.m4scp
+END
+add_child_command.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ostis/!svn/ver/747/trunk/ui/system/repo/fs_repo_src/lib/ui/add_child_command.m4scp
+END

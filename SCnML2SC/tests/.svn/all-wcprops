@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ostis/!svn/ver/746/trunk/tools/SCnML2SC/tests
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ostis/!svn/ver/619/trunk/tools/SCnML2SC/tests/test.py
+END
+testPars.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ostis/!svn/ver/744/trunk/tools/SCnML2SC/tests/testPars.py
+END
+NLparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ostis/!svn/ver/744/trunk/tools/SCnML2SC/tests/NLparser.py
+END

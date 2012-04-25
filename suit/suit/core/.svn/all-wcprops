@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ostis/!svn/ver/1170/trunk/ui/suit/suit/core
+END
+objects.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ostis/!svn/ver/1187/trunk/ui/suit/suit/core/objects.py
+END
+event_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ostis/!svn/ver/1099/trunk/ui/suit/suit/core/event_handler.py
+END
+opers_sched.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/opers_sched.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/1108/trunk/ui/suit/suit/core/__init__.py
+END
+processor.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/921/trunk/ui/suit/suit/core/processor.py
+END
+input_show.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ostis/!svn/ver/1175/trunk/ui/suit/suit/core/input_show.py
+END
+kernel.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ostis/!svn/ver/1168/trunk/ui/suit/suit/core/kernel.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/utils.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ostis/!svn/ver/284/trunk/ui/suit/suit/core/exceptions.py
+END
+keynodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/1187/trunk/ui/suit/suit/core/keynodes.py
+END
+loading_bar.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ostis/!svn/ver/1121/trunk/ui/suit/suit/core/loading_bar.py
+END
+environment.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ostis/!svn/ver/715/trunk/ui/suit/suit/core/environment.py
+END
+sc_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/1170/trunk/ui/suit/suit/core/sc_utils.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ostis/!svn/ver/562/trunk/ui/suit/suit/core/version.py
+END

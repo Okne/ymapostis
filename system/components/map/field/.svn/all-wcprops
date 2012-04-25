@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/map/field
+END
+fieldDrawer.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/map/field/fieldDrawer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/map/field/__init__.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/map/field/test.py
+END
+field.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/map/field/field.py
+END

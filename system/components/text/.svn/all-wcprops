@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ostis/!svn/ver/1165/trunk/ui/system/components/text
+END
+text_editor.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ostis/!svn/ver/1165/trunk/ui/system/components/text/text_editor.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ostis/!svn/ver/380/trunk/ui/system/components/text/__init__.py
+END
+text_viewer.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ostis/!svn/ver/1165/trunk/ui/system/components/text/text_viewer.py
+END
+text_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ostis/!svn/ver/403/trunk/ui/system/components/text/text_init.py
+END

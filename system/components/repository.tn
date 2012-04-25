@@ -1,0 +1,53 @@
+﻿#
+# -----------------------------------------------------------------------------
+# This source file is part of OSTIS (Open Semantic Technology for Intelligent Systems)
+# For the latest info, see http://www.ostis.net
+# 
+# Copyright (c) 2010 OSTIS
+# 
+# OSTIS is free software: you can redistribute it and/or modify
+# it under the terms of the GNU Lesser General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+# 
+# OSTIS is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU Lesser General Public License for more details.
+# 
+# You should have received a copy of the GNU Lesser General Public License
+# along with OSTIS.  If not, see <http://www.gnu.org/licenses/>.
+# -----------------------------------------------------------------------------
+
+[translator]
+{
+	name = "sc2scg";
+	description = "Component for translating sc-constructions to scg-constructions";
+	modules = "scg/base/sc2scg.py", "scg/base/scg_alphabet.py", "scg/base/scg_objects.py";
+	media = none;
+	dependon = none;
+	version = "0.1.1";
+	modification = "base";
+}
+
+[translator]
+{
+	name = "scg2sc";
+	description = "Component for traslating scg-constructions to sc-constructions";
+	modules = "scg/base/scg2sc.py", "scg/base/scg_alphabet.py", "scg/base/scg_objects.py";
+	media = none;
+	dependon = none;
+	version = "0.1.1";
+	modification = "base";
+}
+
+[editor]
+{
+	name = "scg-editor";
+	description = "Component for scg-constructions editing";
+	modules = "scg/base/scg_editor.py", "";
+	media = "";
+	dependon = none;
+	version = "0.1.0";
+	modification = "base";
+}

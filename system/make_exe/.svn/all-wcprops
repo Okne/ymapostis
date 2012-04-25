@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ostis/!svn/ver/881/trunk/ui/system/make_exe
+END
+start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ostis/!svn/ver/836/trunk/ui/system/make_exe/start.bat
+END
+make_exe.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ostis/!svn/ver/836/trunk/ui/system/make_exe/make_exe.bat
+END
+make_exe.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/881/trunk/ui/system/make_exe/make_exe.py
+END
+start_rebuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ostis/!svn/ver/836/trunk/ui/system/make_exe/start_rebuild.bat
+END
+rebuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/836/trunk/ui/system/make_exe/rebuild.bat
+END

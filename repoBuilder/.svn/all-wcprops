@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ostis/!svn/ver/1070/trunk/tools/repoBuilder
+END
+scg_build.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ostis/!svn/ver/1004/trunk/tools/repoBuilder/scg_build.py
+END
+defines.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ostis/!svn/ver/1040/trunk/tools/repoBuilder/defines.py
+END
+m4scp_converter.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ostis/!svn/ver/948/trunk/tools/repoBuilder/m4scp_converter.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ostis/!svn/ver/889/trunk/tools/repoBuilder/__init__.py
+END
+scs_converter.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ostis/!svn/ver/1040/trunk/tools/repoBuilder/scs_converter.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ostis/!svn/ver/372/trunk/tools/repoBuilder/setup.py
+END
+myutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ostis/!svn/ver/372/trunk/tools/repoBuilder/myutil.py
+END
+scg_converter.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ostis/!svn/ver/1040/trunk/tools/repoBuilder/scg_converter.py
+END
+platform.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/1004/trunk/tools/repoBuilder/platform.py
+END
+builder.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ostis/!svn/ver/1070/trunk/tools/repoBuilder/builder.py
+END
+converter.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/372/trunk/tools/repoBuilder/converter.py
+END
+scg2scs.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ostis/!svn/ver/1040/trunk/tools/repoBuilder/scg2scs.py
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/components/chemistry
+END
+chem_keynodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/components/chemistry/chem_keynodes.py
+END
+chem_viewer.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/chemistry/chem_viewer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/chemistry/__init__.py
+END
+chem_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/chemistry/chem_init.py
+END
+chem_editor.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/chemistry/chem_editor.py
+END
+chem_modes.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/components/chemistry/chem_modes.py
+END
+chem2sc.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/components/chemistry/chem2sc.py
+END
+chem_env.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/chemistry/chem_env.py
+END
+sc2chem.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/chemistry/sc2chem.py
+END
+chem_objects.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/chemistry/chem_objects.py
+END

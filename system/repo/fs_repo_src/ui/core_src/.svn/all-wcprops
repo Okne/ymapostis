@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/ui/core_src
+END
+ui_keynodes.gwf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ostis/!svn/ver/1188/trunk/ui/system/repo/fs_repo_src/ui/core_src/ui_keynodes.gwf
+END
+geomx.gwf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/ui/core_src/geomx.gwf
+END
+ui_output_window_set.gwf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ostis/!svn/ver/1097/trunk/ui/system/repo/fs_repo_src/ui/core_src/ui_output_window_set.gwf
+END
+ui_question_command.gwf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ostis/!svn/ver/1109/trunk/ui/system/repo/fs_repo_src/ui/core_src/ui_question_command.gwf
+END
+spacex.gwf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/ui/core_src/spacex.gwf
+END
+scgx.gwf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/ui/core_src/scgx.gwf
+END
+voice.gwf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/ui/core_src/voice.gwf
+END
+string.gwf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ostis/!svn/ver/1097/trunk/ui/system/repo/fs_repo_src/ui/core_src/string.gwf
+END
+ui_all_translations.gwf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ostis/!svn/ver/1104/trunk/ui/system/repo/fs_repo_src/ui/core_src/ui_all_translations.gwf
+END
+ui_no_atom_command.gwf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ostis/!svn/ver/1109/trunk/ui/system/repo/fs_repo_src/ui/core_src/ui_no_atom_command.gwf
+END
+ui_atom_command.gwf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ostis/!svn/ver/1104/trunk/ui/system/repo/fs_repo_src/ui/core_src/ui_atom_command.gwf
+END

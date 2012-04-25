@@ -1,0 +1,57 @@
+#include "_keynodes.scsy"
+#include "ui_keynodes.scsy"
+
+video_test = {};
+media_test = {};
+flash_test = {};
+image_test = {};
+
+$video1 = {};
+$video1 =fe= "demo/Plumiferos_persecucion_casting.mpg";
+ui_format_mpg -> $video1;
+$video_test -> $video1;
+
+$video2 = {};
+$video2 =fe= "demo/video.avi";
+ui_format_avi -> $video2;
+$video_test -> $video2;
+
+$video3 = {};
+$video3 =fe= "demo/arraydemo0001_0737.avi";
+ui_format_avi -> $video3;
+$video_test -> $video3;
+ 
+$flash1 = {};
+$flash1 =fe= "demo/yes-no.swf";
+ui_format_swf -> $flash1;
+$flash_test -> $flash1;
+
+$flash2 = {};
+$flash2 =fe= "demo/go2slipNeutre.swf";
+$flash_test -> $flash2;
+ui_format_swf -> $flash2;
+
+$flash3 = {};
+$flash3 =fe= "demo/hestekor.swf";
+$flash_test -> $flash3;
+ui_format_swf -> $flash3;
+
+$image1 = {};
+$image1 =fe= "demo/moleculs.png";
+ui_format_png -> $image1;
+image_test -> $image1;
+
+$image2 = {};
+$image2 =fe= "demo/IMG_0151.png";
+ui_format_png -> $image2;
+image_test -> $image2;
+
+media_test = {};
+media_test -> $video1;
+media_test -> $video2;
+media_test -> $video3;
+media_test -> $flash1;
+media_test -> $flash2;
+media_test -> $flash3;
+media_test -> $image1;
+media_test -> $image2;

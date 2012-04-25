@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/include
+END
+lib_gen.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/include/lib_gen.scsy
+END
+meta_info.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/repo/fs_repo_src/include/meta_info.scsy
+END
+lib_ui.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/include/lib_ui.scsy
+END
+lib_check.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/include/lib_check.scsy
+END
+lib_other.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/include/lib_other.scsy
+END
+ui_keynodes.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/include/ui_keynodes.scsy
+END
+com_keynodes.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/include/com_keynodes.scsy
+END
+administrator.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/repo/fs_repo_src/include/administrator.scsy
+END
+lib_questions.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ostis/!svn/ver/816/trunk/ui/system/repo/fs_repo_src/include/lib_questions.scsy
+END
+lib_set.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/include/lib_set.scsy
+END
+rel_keynodes.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/repo/fs_repo_src/include/rel_keynodes.scsy
+END
+etc_questions.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/include/etc_questions.scsy
+END
+lib_answer.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ostis/!svn/ver/429/trunk/ui/system/repo/fs_repo_src/include/lib_answer.scsy
+END
+lib_erase.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/include/lib_erase.scsy
+END
+scp_keynodes.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/include/scp_keynodes.scsy
+END
+ordinal.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/repo/fs_repo_src/include/ordinal.scsy
+END
+lib_segment.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ostis/!svn/ver/429/trunk/ui/system/repo/fs_repo_src/include/lib_segment.scsy
+END
+lib_search.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/include/lib_search.scsy
+END
+nsm_keynodes.scsy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/repo/fs_repo_src/include/nsm_keynodes.scsy
+END

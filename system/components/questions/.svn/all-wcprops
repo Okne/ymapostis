@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ostis/!svn/ver/1158/trunk/ui/system/components/questions
+END
+questions_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ostis/!svn/ver/794/trunk/ui/system/components/questions/questions_init.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ostis/!svn/ver/881/trunk/ui/system/components/questions/__init__.py
+END
+operation.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ostis/!svn/ver/731/trunk/ui/system/components/questions/operation.py
+END
+keynodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ostis/!svn/ver/731/trunk/ui/system/components/questions/keynodes.py
+END
+questions_pool.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ostis/!svn/ver/913/trunk/ui/system/components/questions/questions_pool.py
+END

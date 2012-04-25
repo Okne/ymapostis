@@ -1,0 +1,22 @@
+#Tue Apr 24 08:35:46 VET 2012
+eclipse.preferences.version=1
+encoding//components/questions/keynodes.py=utf-8
+encoding//components/questions/operation.py=utf-8
+encoding//components/questions/operations/__init__.py=utf-8
+encoding//components/questions/operations/op_change_tts.py=utf-8
+encoding//components/questions/operations/op_search_definition.py=utf-8
+encoding//components/questions/operations/op_search_dl1.py=utf-8
+encoding//components/questions/operations/op_search_dl2.py=utf-8
+encoding//components/questions/operations/op_search_dl3.py=utf-8
+encoding//components/questions/operations/op_search_domain.py=utf-8
+encoding//components/questions/operations/op_search_domain_area.py=utf-8
+encoding//components/questions/operations/op_search_domains.py=utf-8
+encoding//components/questions/operations/op_search_full_semantic.py=utf-8
+encoding//components/questions/operations/op_search_illustaration.py=utf-8
+encoding//components/questions/operations/op_search_relation_one_by_one.py=utf-8
+encoding//components/questions/operations/op_search_superset.py=utf-8
+encoding//components/questions/operations/op_search_translate_ru.py=utf-8
+encoding//components/questions/operations/op_show_map.py=utf-8
+encoding//components/questions/operations/op_tts.py=utf-8
+encoding//components/questions/questions_pool.py=utf-8
+encoding//repo/repoBuilder/SCnML2SC/translator.py=utf-8

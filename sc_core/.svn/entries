@@ -1,0 +1,98 @@
+10
+
+dir
+0
+svn://svn.code.sf.net/u/akravchenko/trunk/trunk/sc_core
+svn://svn.code.sf.net/u/akravchenko/trunk
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+feb6305a-0371-46f9-b113-cd6838fd64ab
+
+build
+dir
+
+
+
+add
+
+sc_core2
+dir
+
+
+
+add
+
+BUGS
+file
+
+
+
+add
+
+COPYING.LESSER
+file
+
+
+
+add
+
+AUTHORS
+file
+
+
+
+add
+
+INSTALL
+file
+
+
+
+add
+
+setup.py
+file
+
+
+
+add
+
+COPYING
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+sc_core
+dir
+
+
+
+add
+

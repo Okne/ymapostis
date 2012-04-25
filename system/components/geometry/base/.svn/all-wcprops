@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ostis/!svn/ver/1174/trunk/ui/system/components/geometry/base
+END
+geom_keynodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ostis/!svn/ver/1174/trunk/ui/system/components/geometry/base/geom_keynodes.py
+END
+geom_viewer.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ostis/!svn/ver/1172/trunk/ui/system/components/geometry/base/geom_viewer.py
+END
+geom_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ostis/!svn/ver/487/trunk/ui/system/components/geometry/base/geom_init.py
+END
+geom_controls.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ostis/!svn/ver/1172/trunk/ui/system/components/geometry/base/geom_controls.py
+END
+geom_editor.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ostis/!svn/ver/1174/trunk/ui/system/components/geometry/base/geom_editor.py
+END
+geom_modes.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ostis/!svn/ver/1179/trunk/ui/system/components/geometry/base/geom_modes.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ostis/!svn/ver/1172/trunk/ui/system/components/geometry/base/__init__.py
+END
+geom2sc.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ostis/!svn/ver/1179/trunk/ui/system/components/geometry/base/geom2sc.py
+END
+geom_env.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/components/geometry/base/geom_env.py
+END
+geom_objects.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ostis/!svn/ver/1179/trunk/ui/system/components/geometry/base/geom_objects.py
+END
+geom_panel.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ostis/!svn/ver/769/trunk/ui/system/components/geometry/base/geom_panel.py
+END

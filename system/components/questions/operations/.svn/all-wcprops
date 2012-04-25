@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ostis/!svn/ver/1158/trunk/ui/system/components/questions/operations
+END
+op_search_subset.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_subset.py
+END
+op_search_domain.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_domain.py
+END
+op_search_relation_one_by_one.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/ostis/!svn/ver/1158/trunk/ui/system/components/questions/operations/op_search_relation_one_by_one.py
+END
+op_search_superset.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_superset.py
+END
+op_search_statement_about_unique_assignment.py
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_statement_about_unique_assignment.py
+END
+op_search_statement_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_statement_definition.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ostis/!svn/ver/881/trunk/ui/system/components/questions/operations/__init__.py
+END
+op_search_synonims.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_synonims.py
+END
+Op_search_rel_map.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/Op_search_rel_map.py
+END
+op_search_dl1.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_dl1.py
+END
+op_search_relation_strong_crossing.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/ostis/!svn/ver/1158/trunk/ui/system/components/questions/operations/op_search_relation_strong_crossing.py
+END
+op_search_dl2.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_dl2.py
+END
+op_search_remark.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_remark.py
+END
+op_search_dl3.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_dl3.py
+END
+op_search_relation_one_by_other_set.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/ostis/!svn/ver/1158/trunk/ui/system/components/questions/operations/op_search_relation_one_by_other_set.py
+END
+op_search_full_semantic.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/ostis/!svn/ver/790/trunk/ui/system/components/questions/operations/op_search_full_semantic.py
+END
+op_tts.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ostis/!svn/ver/1158/trunk/ui/system/components/questions/operations/op_tts.py
+END
+op_search_patition.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_patition.py
+END
+op_search_definition.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_definition.py
+END
+op_echo.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ostis/!svn/ver/913/trunk/ui/system/components/questions/operations/op_echo.py
+END
+op_search_illustaration.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/ostis/!svn/ver/790/trunk/ui/system/components/questions/operations/op_search_illustaration.py
+END
+op_search_domains.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_domains.py
+END
+op_change_tts.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ostis/!svn/ver/1158/trunk/ui/system/components/questions/operations/op_change_tts.py
+END
+op_search_example.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_example.py
+END
+op_search_used_constanst.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_used_constanst.py
+END
+op_search_domain_area.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_domain_area.py
+END
+op_search_relation_scheme.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/ostis/!svn/ver/1158/trunk/ui/system/components/questions/operations/op_search_relation_scheme.py
+END
+op_search_translate_ru.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_translate_ru.py
+END
+op_search_statement.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ostis/!svn/ver/1145/trunk/ui/system/components/questions/operations/op_search_statement.py
+END

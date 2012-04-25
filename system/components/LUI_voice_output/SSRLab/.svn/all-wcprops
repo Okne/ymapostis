@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ostis/!svn/ver/1166/trunk/ui/system/components/LUI_voice_output/SSRLab
+END
+libMetaInfo.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ostis/!svn/ver/1156/trunk/ui/system/components/LUI_voice_output/SSRLab/libMetaInfo.dll
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ostis/!svn/ver/915/trunk/ui/system/components/LUI_voice_output/SSRLab/__init__.py
+END
+sui.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ostis/!svn/ver/1166/trunk/ui/system/components/LUI_voice_output/SSRLab/sui.py
+END
+libSound.dll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ostis/!svn/ver/1156/trunk/ui/system/components/LUI_voice_output/SSRLab/libSound.dll
+END
+_wrapper.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ostis/!svn/ver/915/trunk/ui/system/components/LUI_voice_output/SSRLab/_wrapper.pyd
+END

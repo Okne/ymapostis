@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/media/chemistry/materials/scripts
+END
+chem_base.material
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/media/chemistry/materials/scripts/chem_base.material
+END
+chem_link.material
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/media/chemistry/materials/scripts/chem_link.material
+END
+chem_atoms.material
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/media/chemistry/materials/scripts/chem_atoms.material
+END

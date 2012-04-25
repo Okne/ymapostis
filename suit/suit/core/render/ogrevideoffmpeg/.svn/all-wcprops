@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/ogrevideoffmpeg
+END
+_ogrevideoffmpeg_.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/ogrevideoffmpeg/_ogrevideoffmpeg_.pyd
+END
+avcodec-52.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/ogrevideoffmpeg/avcodec-52.dll
+END
+avdevice-52.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/ogrevideoffmpeg/avdevice-52.dll
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/ogrevideoffmpeg/__init__.py
+END
+avutil-49.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/ogrevideoffmpeg/avutil-49.dll
+END
+swscale-0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/ogrevideoffmpeg/swscale-0.dll
+END
+libogg-0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/ogrevideoffmpeg/libogg-0.dll
+END
+avformat-52.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ostis/!svn/ver/237/trunk/ui/suit/suit/core/render/ogrevideoffmpeg/avformat-52.dll
+END

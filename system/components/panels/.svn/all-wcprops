@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ostis/!svn/ver/1117/trunk/ui/system/components/panels
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ostis/!svn/ver/1097/trunk/ui/system/components/panels/__init__.py
+END
+taskpanel.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ostis/!svn/ver/1086/trunk/ui/system/components/panels/taskpanel.py
+END
+mainpanel.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ostis/!svn/ver/1182/trunk/ui/system/components/panels/mainpanel.py
+END
+windowpanel.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ostis/!svn/ver/881/trunk/ui/system/components/panels/windowpanel.py
+END

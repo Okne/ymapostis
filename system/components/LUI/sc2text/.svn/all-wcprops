@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ostis/!svn/ver/1177/trunk/ui/system/components/LUI/sc2text
+END
+html2text.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ostis/!svn/ver/1085/trunk/ui/system/components/LUI/sc2text/html2text.py
+END
+sc2text.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ostis/!svn/ver/1177/trunk/ui/system/components/LUI/sc2text/sc2text.py
+END
+nsm.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ostis/!svn/ver/731/trunk/ui/system/components/LUI/sc2text/nsm.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ostis/!svn/ver/649/trunk/ui/system/components/LUI/sc2text/__init__.py
+END

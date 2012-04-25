@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/plugins
+END
+RenderSystem_GL.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/plugins/RenderSystem_GL.dll
+END
+Plugin_OctreeSceneManager.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/plugins/Plugin_OctreeSceneManager.dll
+END
+Plugin_CgProgramManager.dll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/plugins/Plugin_CgProgramManager.dll
+END
+Plugin_BSPSceneManager.dll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/plugins/Plugin_BSPSceneManager.dll
+END
+Plugin_OctreeZone.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/plugins/Plugin_OctreeZone.dll
+END
+Plugin_TheoraVideoSystem.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/plugins/Plugin_TheoraVideoSystem.dll
+END
+RenderSystem_Direct3D9.dll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/plugins/RenderSystem_Direct3D9.dll
+END
+Plugin_ParticleFX.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/plugins/Plugin_ParticleFX.dll
+END
+Plugin_PCZSceneManager.dll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/plugins/Plugin_PCZSceneManager.dll
+END
+ParticleUniverse.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ostis/!svn/ver/282/trunk/ui/system/plugins/ParticleUniverse.dll
+END

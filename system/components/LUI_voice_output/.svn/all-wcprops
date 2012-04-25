@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ostis/!svn/ver/1173/trunk/ui/system/components/LUI_voice_output
+END
+sc2voice.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ostis/!svn/ver/1164/trunk/ui/system/components/LUI_voice_output/sc2voice.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ostis/!svn/ver/915/trunk/ui/system/components/LUI_voice_output/__init__.py
+END
+keynodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/ostis/!svn/ver/1164/trunk/ui/system/components/LUI_voice_output/keynodes.py
+END
+vo_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/ostis/!svn/ver/1173/trunk/ui/system/components/LUI_voice_output/vo_init.py
+END

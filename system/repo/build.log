@@ -1,0 +1,1416 @@
+#########################
+# aply rules from file 'build.rules'
+#########################
+Aplying rule '['scg', 'seb/planimetry_src', '->', 'seb/planimetry']'...
+Generating scg file '../fs_repo_src\seb/planimetry.scg' from '../fs_repo_src\seb/planimetry_src'
+scanning ../fs_repo_src\seb/planimetry_src
+adding file planimetry_src\extend.gwf
+adding file planimetry_src\Request.gwf
+adding file planimetry_src\Значения_Геометрия.gwf
+adding file planimetry_src\Определение медианы треугольника.gwf
+adding file planimetry_src\Определение равнобедренного треугольника.gwf
+adding file planimetry_src\Условие.gwf
+scanning ../fs_repo_src\seb/planimetry_src\files
+ignored Aks ploskost geom tochka peresechenie prjam.png in ../fs_repo_src\seb/planimetry_src
+Aplying rule '['scs', 'seb/lingv_src', '->', 'seb/lingv']'...
+Generating scs file '../fs_repo_src\seb/lingv.scs' from '../fs_repo_src\seb/lingv_src'
+scanning ../fs_repo_src\seb/lingv_src
+adding file lingv_src\bel.scsy
+adding file lingv_src\rus.scsy
+adding file lingv_src\_keynodes.scsy
+scanning ../fs_repo_src\seb/lingv_src\.svn
+ignored all-wcprops in ../fs_repo_src\seb/lingv_src
+ignored entries in ../fs_repo_src\seb/lingv_src
+scanning ../fs_repo_src\seb/lingv_src\.svn\prop-base
+scanning ../fs_repo_src\seb/lingv_src\.svn\props
+scanning ../fs_repo_src\seb/lingv_src\.svn\text-base
+ignored bel.scsy.svn-base in ../fs_repo_src\seb/lingv_src
+ignored rus.scsy.svn-base in ../fs_repo_src\seb/lingv_src
+ignored _keynodes.scsy.svn-base in ../fs_repo_src\seb/lingv_src
+scanning ../fs_repo_src\seb/lingv_src\.svn\tmp
+scanning ../fs_repo_src\seb/lingv_src\.svn\tmp\prop-base
+scanning ../fs_repo_src\seb/lingv_src\.svn\tmp\props
+scanning ../fs_repo_src\seb/lingv_src\.svn\tmp\text-base
+Aplying rule '['scg', 'etc/com_keynodes_src', '->', 'etc/com_keynodes']'...
+Generating scg file '../fs_repo_src\etc/com_keynodes.scg' from '../fs_repo_src\etc/com_keynodes_src'
+scanning ../fs_repo_src\etc/com_keynodes_src
+adding file com_keynodes_src\bel_lang.gwf
+adding file com_keynodes_src\com_keynodes.gwf
+adding file com_keynodes_src\eng_lang.gwf
+adding file com_keynodes_src\rus_lang.gwf
+scanning ../fs_repo_src\etc/com_keynodes_src\.svn
+ignored all-wcprops in ../fs_repo_src\etc/com_keynodes_src
+ignored entries in ../fs_repo_src\etc/com_keynodes_src
+scanning ../fs_repo_src\etc/com_keynodes_src\.svn\prop-base
+scanning ../fs_repo_src\etc/com_keynodes_src\.svn\props
+scanning ../fs_repo_src\etc/com_keynodes_src\.svn\text-base
+ignored bel_lang.gwf.svn-base in ../fs_repo_src\etc/com_keynodes_src
+ignored com_keynodes.gwf.svn-base in ../fs_repo_src\etc/com_keynodes_src
+ignored eng_lang.gwf.svn-base in ../fs_repo_src\etc/com_keynodes_src
+ignored rus_lang.gwf.svn-base in ../fs_repo_src\etc/com_keynodes_src
+scanning ../fs_repo_src\etc/com_keynodes_src\.svn\tmp
+ignored com_keynodes.gwf.tmp in ../fs_repo_src\etc/com_keynodes_src
+scanning ../fs_repo_src\etc/com_keynodes_src\.svn\tmp\prop-base
+scanning ../fs_repo_src\etc/com_keynodes_src\.svn\tmp\props
+scanning ../fs_repo_src\etc/com_keynodes_src\.svn\tmp\text-base
+Aplying rule '['scg', 'ui/menu', '->', 'ui/menu']'...
+Generating scg file '../fs_repo_src\ui/menu.scg' from '../fs_repo_src\ui/menu'
+scanning ../fs_repo_src\ui/menu
+adding file menu\na_main_menu.gwf
+scanning ../fs_repo_src\ui/menu\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\.svn\props
+scanning ../fs_repo_src\ui/menu\.svn\text-base
+ignored na_main_menu.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\.svn\tmp
+scanning ../fs_repo_src\ui/menu\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu
+adding file menu\na_main_menu\na_edit.gwf
+adding file menu\na_main_menu\na_edit_sc.gwf
+adding file menu\na_main_menu\na_gis.gwf
+adding file menu\na_main_menu\na_help.gwf
+adding file menu\na_main_menu\na_lui.gwf
+adding file menu\na_main_menu\na_problems_solution.gwf
+adding file menu\na_main_menu\na_questions.gwf
+adding file menu\na_main_menu\na_ui.gwf
+adding file menu\na_main_menu\na_view.gwf
+adding file menu\na_main_menu\na_view_kb.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\text-base
+ignored na_edit.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_edit_sc.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_help.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_lui.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_problems_solution.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_questions.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_ui.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_view.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_view_kb.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc
+adding file menu\na_main_menu\na_edit_sc\a_del_sc.gwf
+adding file menu\na_main_menu\na_edit_sc\a_difference.gwf
+adding file menu\na_main_menu\na_edit_sc\a_el_content.gwf
+adding file menu\na_main_menu\na_edit_sc\a_gen_sc.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\text-base
+ignored a_del_sc.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_difference.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_el_content.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_gen_sc.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_gis
+adding file menu\na_main_menu\na_gis\a_show_map.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help
+adding file menu\na_main_menu\na_help\na_ui.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\text-base
+ignored na_ui.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui
+adding file menu\na_main_menu\na_help\na_ui\a_help_ui_cmd_example.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\text-base
+ignored a_help_ui_cmd_example.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive
+adding file menu\na_main_menu\na_help\na_ui\na_interactive\a_help_ui_draw_triangle.gwf
+adding file menu\na_main_menu\na_help\na_ui\na_interactive\a_help_ui_get_decomposition.gwf
+adding file menu\na_main_menu\na_help\na_ui\na_interactive\a_help_ui_get_identifiers.gwf
+adding file menu\na_main_menu\na_help\na_ui\na_interactive\a_help_ui_get_illustrations.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\text-base
+ignored a_help_ui_draw_triangle.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_help_ui_get_decomposition.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_help_ui_get_identifiers.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_help_ui_get_illustrations.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui
+adding file menu\na_main_menu\na_lui\a_change_tts.gwf
+adding file menu\na_main_menu\na_lui\a_speak.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\text-base
+ignored a_change_tts.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_speak.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution
+adding file menu\na_main_menu\na_problems_solution\a_formula_calculation.gwf
+adding file menu\na_main_menu\na_problems_solution\a_square_request.gwf
+adding file menu\na_main_menu\na_problems_solution\a_statement_validity.gwf
+adding file menu\na_main_menu\na_problems_solution\a_var_value_request.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\text-base
+ignored a_formula_calculation.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_square_request.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_statement_validity.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_var_value_request.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions
+adding file menu\na_main_menu\na_questions\a_verification.gwf
+ignored na_verification.gwf1 in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\text-base
+ignored a_verification.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_verification.gwf1.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui
+adding file menu\na_main_menu\na_ui\na_commands.gwf
+adding file menu\na_main_menu\na_ui\na_translations.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\text-base
+ignored na_commands.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_translations.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands
+adding file menu\na_main_menu\na_ui\na_commands\a_add_child_command.gwf
+adding file menu\na_main_menu\na_ui\na_commands\a_rem_child_command.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\text-base
+ignored a_add_child_command.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_rem_child_command.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations
+adding file menu\na_main_menu\na_ui\na_translations\a_change_translation.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\text-base
+ignored a_change_translation.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view
+adding file menu\na_main_menu\na_view\na_scale.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\text-base
+ignored na_scale.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale
+adding file menu\na_main_menu\na_view\na_scale\a_scale_default.gwf
+adding file menu\na_main_menu\na_view\na_scale\a_scale_in.gwf
+adding file menu\na_main_menu\na_view\na_scale\a_scale_out.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\text-base
+ignored a_scale_default.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_scale_in.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_scale_out.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb
+adding file menu\na_main_menu\na_view_kb\a_echo.gwf
+adding file menu\na_main_menu\na_view_kb\a_echo_select.gwf
+adding file menu\na_main_menu\na_view_kb\na_classification.gwf
+adding file menu\na_main_menu\na_view_kb\na_identification.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square.gwf
+adding file menu\na_main_menu\na_view_kb\na_standard.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\text-base
+ignored a_echo.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_echo_select.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_classification.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_identification.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_semantic_square.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_standard.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\tmp
+ignored na_semantic_square.gwf.tmp in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification
+adding file menu\na_main_menu\na_view_kb\na_classification\a_decomposition.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\text-base
+ignored a_decomposition.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification
+adding file menu\na_main_menu\na_view_kb\na_identification\a_identifiers.gwf
+adding file menu\na_main_menu\na_view_kb\na_identification\a_illustration.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\text-base
+ignored a_identifiers.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_illustration.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_authors.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_decomposition.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_defenition.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_defenition_area.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_dl1.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_dl2.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_dl3.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_domain.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_example.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_explanation.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_full_semantic.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_illustration.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_relation_chema.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_statements.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_statement_definition.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_subset.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_superset.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_synonims.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_translate_ru.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_uniq_defenition.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_used_constants.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\text-base
+ignored a_authors.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_decomposition.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_defenition.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_defenition_area.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_dl1.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_dl2.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_dl3.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_domain.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_example.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_explanation.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_full_semantic.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_illustration.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_relation_chema.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_statements.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_statement_definition.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_subset.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_superset.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_synonims.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_translate_ru.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_uniq_defenition.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_used_constants.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart
+adding file menu\na_main_menu\na_view_kb\na_standart\a_input_all_pos_arcs.gwf
+adding file menu\na_main_menu\na_view_kb\na_standart\a_output_all_arcs.gwf
+adding file menu\na_main_menu\na_view_kb\na_standart\a_output_all_pos_arcs.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\text-base
+ignored a_input_all_pos_arcs.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_output_all_arcs.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_output_all_pos_arcs.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\tmp\text-base
+Aplying rule '['inc', 'beg', 'ui/menu.scg', '<-', 'com_keynodes.scsy']'...
+Aplying rule '['scg', 'ui/core_src', '->', 'ui/core']'...
+Generating scg file '../fs_repo_src\ui/core.scg' from '../fs_repo_src\ui/core_src'
+scanning ../fs_repo_src\ui/core_src
+adding file core_src\geomx.gwf
+adding file core_src\scgx.gwf
+adding file core_src\spacex.gwf
+adding file core_src\string.gwf
+adding file core_src\ui_all_translations.gwf
+adding file core_src\ui_atom_command.gwf
+adding file core_src\ui_keynodes.gwf
+adding file core_src\ui_no_atom_command.gwf
+adding file core_src\ui_output_window_set.gwf
+adding file core_src\ui_question_command.gwf
+adding file core_src\voice.gwf
+scanning ../fs_repo_src\ui/core_src\.svn
+ignored all-wcprops in ../fs_repo_src\ui/core_src
+ignored entries in ../fs_repo_src\ui/core_src
+scanning ../fs_repo_src\ui/core_src\.svn\prop-base
+scanning ../fs_repo_src\ui/core_src\.svn\props
+scanning ../fs_repo_src\ui/core_src\.svn\text-base
+ignored geomx.gwf.svn-base in ../fs_repo_src\ui/core_src
+ignored scgx.gwf.svn-base in ../fs_repo_src\ui/core_src
+ignored spacex.gwf.svn-base in ../fs_repo_src\ui/core_src
+ignored string.gwf.svn-base in ../fs_repo_src\ui/core_src
+ignored ui_all_translations.gwf.svn-base in ../fs_repo_src\ui/core_src
+ignored ui_atom_command.gwf.svn-base in ../fs_repo_src\ui/core_src
+ignored ui_keynodes.gwf.svn-base in ../fs_repo_src\ui/core_src
+ignored ui_no_atom_command.gwf.svn-base in ../fs_repo_src\ui/core_src
+ignored ui_output_window_set.gwf.svn-base in ../fs_repo_src\ui/core_src
+ignored ui_question_command.gwf.svn-base in ../fs_repo_src\ui/core_src
+ignored voice.gwf.svn-base in ../fs_repo_src\ui/core_src
+scanning ../fs_repo_src\ui/core_src\.svn\tmp
+ignored geomx.gwf.tmp in ../fs_repo_src\ui/core_src
+ignored scgx.gwf.tmp in ../fs_repo_src\ui/core_src
+ignored spacex.gwf.tmp in ../fs_repo_src\ui/core_src
+ignored ui_keynodes.gwf.tmp in ../fs_repo_src\ui/core_src
+ignored voice.gwf.tmp in ../fs_repo_src\ui/core_src
+scanning ../fs_repo_src\ui/core_src\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/core_src\.svn\tmp\props
+scanning ../fs_repo_src\ui/core_src\.svn\tmp\text-base
+Aplying rule '['scg', 'etc/questions_src', '->', 'etc/questions']'...
+Generating scg file '../fs_repo_src\etc/questions.scg' from '../fs_repo_src\etc/questions_src'
+scanning ../fs_repo_src\etc/questions_src
+adding file questions_src\questions_keynodes.gwf
+adding file questions_src\ея.примеры.вопросов.gwf
+adding file questions_src\спец.поиск иллюстрации объекта.gwf
+adding file questions_src\спец.поиск полной семантической окрестности.gwf
+scanning ../fs_repo_src\etc/questions_src\.svn
+ignored all-wcprops in ../fs_repo_src\etc/questions_src
+ignored entries in ../fs_repo_src\etc/questions_src
+scanning ../fs_repo_src\etc/questions_src\.svn\prop-base
+scanning ../fs_repo_src\etc/questions_src\.svn\props
+scanning ../fs_repo_src\etc/questions_src\.svn\text-base
+ignored questions_keynodes.gwf.svn-base in ../fs_repo_src\etc/questions_src
+ignored ея.примеры.вопросов.gwf.svn-base in ../fs_repo_src\etc/questions_src
+ignored спец.поиск иллюстрации объекта.gwf.svn-base in ../fs_repo_src\etc/questions_src
+ignored спец.поиск полной семантической окрестности.gwf.svn-base in ../fs_repo_src\etc/questions_src
+scanning ../fs_repo_src\etc/questions_src\.svn\tmp
+ignored questions_keynodes.gwf.tmp in ../fs_repo_src\etc/questions_src
+scanning ../fs_repo_src\etc/questions_src\.svn\tmp\prop-base
+scanning ../fs_repo_src\etc/questions_src\.svn\tmp\props
+scanning ../fs_repo_src\etc/questions_src\.svn\tmp\text-base
+Aplying rule '['scg', 'etc/operations_src', '->', 'etc/operations']'...
+Generating scg file '../fs_repo_src\etc/operations.scg' from '../fs_repo_src\etc/operations_src'
+scanning ../fs_repo_src\etc/operations_src
+adding file operations_src\Спец.операция отображения карты.gwf
+adding file operations_src\Спец.операция поиска полной семантической окрестности.gwf
+scanning ../fs_repo_src\etc/operations_src\.svn
+ignored all-wcprops in ../fs_repo_src\etc/operations_src
+ignored entries in ../fs_repo_src\etc/operations_src
+scanning ../fs_repo_src\etc/operations_src\.svn\prop-base
+scanning ../fs_repo_src\etc/operations_src\.svn\props
+scanning ../fs_repo_src\etc/operations_src\.svn\text-base
+ignored Спец.операция поиска полной семантической окрестности.gwf.svn-base in ../fs_repo_src\etc/operations_src
+scanning ../fs_repo_src\etc/operations_src\.svn\tmp
+scanning ../fs_repo_src\etc/operations_src\.svn\tmp\prop-base
+scanning ../fs_repo_src\etc/operations_src\.svn\tmp\props
+scanning ../fs_repo_src\etc/operations_src\.svn\tmp\text-base
+Aplying rule '['scg', 'seb/space_src', '->', 'seb/space']'...
+Generating scg file '../fs_repo_src\seb/space.scg' from '../fs_repo_src\seb/space_src'
+scanning ../fs_repo_src\seb/space_src
+adding file space_src\mercury.gwf
+adding file space_src\sun_planets.gwf
+adding file space_src\sun_system.gwf
+adding file space_src\venus.gwf
+adding file space_src\_keynodes.gwf
+Aplying rule '['scg', 'seb/chemistry_src', '->', 'seb/chemistry']'...
+Generating scg file '../fs_repo_src\seb/chemistry.scg' from '../fs_repo_src\seb/chemistry_src'
+scanning ../fs_repo_src\seb/chemistry_src
+adding file chemistry_src\_keynodes.gwf
+Aplying rule '['scg', 'ui/menu', '->', 'ui/menu']'...
+Generating scg file '../fs_repo_src\ui/menu.scg' from '../fs_repo_src\ui/menu'
+scanning ../fs_repo_src\ui/menu
+adding file menu\na_main_menu.gwf
+scanning ../fs_repo_src\ui/menu\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\.svn\props
+scanning ../fs_repo_src\ui/menu\.svn\text-base
+ignored na_main_menu.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\.svn\tmp
+scanning ../fs_repo_src\ui/menu\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu
+adding file menu\na_main_menu\na_edit.gwf
+adding file menu\na_main_menu\na_edit_sc.gwf
+adding file menu\na_main_menu\na_gis.gwf
+adding file menu\na_main_menu\na_help.gwf
+adding file menu\na_main_menu\na_lui.gwf
+adding file menu\na_main_menu\na_problems_solution.gwf
+adding file menu\na_main_menu\na_questions.gwf
+adding file menu\na_main_menu\na_ui.gwf
+adding file menu\na_main_menu\na_view.gwf
+adding file menu\na_main_menu\na_view_kb.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\text-base
+ignored na_edit.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_edit_sc.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_help.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_lui.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_problems_solution.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_questions.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_ui.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_view.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_view_kb.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc
+adding file menu\na_main_menu\na_edit_sc\a_del_sc.gwf
+adding file menu\na_main_menu\na_edit_sc\a_difference.gwf
+adding file menu\na_main_menu\na_edit_sc\a_el_content.gwf
+adding file menu\na_main_menu\na_edit_sc\a_gen_sc.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\text-base
+ignored a_del_sc.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_difference.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_el_content.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_gen_sc.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_edit_sc\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_gis
+adding file menu\na_main_menu\na_gis\a_show_map.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help
+adding file menu\na_main_menu\na_help\na_ui.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\text-base
+ignored na_ui.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui
+adding file menu\na_main_menu\na_help\na_ui\a_help_ui_cmd_example.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\text-base
+ignored a_help_ui_cmd_example.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive
+adding file menu\na_main_menu\na_help\na_ui\na_interactive\a_help_ui_draw_triangle.gwf
+adding file menu\na_main_menu\na_help\na_ui\na_interactive\a_help_ui_get_decomposition.gwf
+adding file menu\na_main_menu\na_help\na_ui\na_interactive\a_help_ui_get_identifiers.gwf
+adding file menu\na_main_menu\na_help\na_ui\na_interactive\a_help_ui_get_illustrations.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\text-base
+ignored a_help_ui_draw_triangle.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_help_ui_get_decomposition.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_help_ui_get_identifiers.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_help_ui_get_illustrations.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_help\na_ui\na_interactive\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui
+adding file menu\na_main_menu\na_lui\a_change_tts.gwf
+adding file menu\na_main_menu\na_lui\a_speak.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\text-base
+ignored a_change_tts.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_speak.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_lui\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution
+adding file menu\na_main_menu\na_problems_solution\a_formula_calculation.gwf
+adding file menu\na_main_menu\na_problems_solution\a_square_request.gwf
+adding file menu\na_main_menu\na_problems_solution\a_statement_validity.gwf
+adding file menu\na_main_menu\na_problems_solution\a_var_value_request.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\text-base
+ignored a_formula_calculation.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_square_request.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_statement_validity.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_var_value_request.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_problems_solution\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions
+adding file menu\na_main_menu\na_questions\a_verification.gwf
+ignored na_verification.gwf1 in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\text-base
+ignored a_verification.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_verification.gwf1.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_questions\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui
+adding file menu\na_main_menu\na_ui\na_commands.gwf
+adding file menu\na_main_menu\na_ui\na_translations.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\text-base
+ignored na_commands.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_translations.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands
+adding file menu\na_main_menu\na_ui\na_commands\a_add_child_command.gwf
+adding file menu\na_main_menu\na_ui\na_commands\a_rem_child_command.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\text-base
+ignored a_add_child_command.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_rem_child_command.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_commands\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations
+adding file menu\na_main_menu\na_ui\na_translations\a_change_translation.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\text-base
+ignored a_change_translation.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_ui\na_translations\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view
+adding file menu\na_main_menu\na_view\na_scale.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\text-base
+ignored na_scale.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale
+adding file menu\na_main_menu\na_view\na_scale\a_scale_default.gwf
+adding file menu\na_main_menu\na_view\na_scale\a_scale_in.gwf
+adding file menu\na_main_menu\na_view\na_scale\a_scale_out.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\text-base
+ignored a_scale_default.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_scale_in.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_scale_out.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view\na_scale\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb
+adding file menu\na_main_menu\na_view_kb\a_echo.gwf
+adding file menu\na_main_menu\na_view_kb\a_echo_select.gwf
+adding file menu\na_main_menu\na_view_kb\na_classification.gwf
+adding file menu\na_main_menu\na_view_kb\na_identification.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square.gwf
+adding file menu\na_main_menu\na_view_kb\na_standard.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\text-base
+ignored a_echo.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_echo_select.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_classification.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_identification.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_semantic_square.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored na_standard.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\tmp
+ignored na_semantic_square.gwf.tmp in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification
+adding file menu\na_main_menu\na_view_kb\na_classification\a_decomposition.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\text-base
+ignored a_decomposition.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_classification\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_definition\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_expression\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_formal_theory\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification
+adding file menu\na_main_menu\na_view_kb\na_identification\a_identifiers.gwf
+adding file menu\na_main_menu\na_view_kb\na_identification\a_illustration.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\text-base
+ignored a_identifiers.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_illustration.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_identification\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_programs\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_proof\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_relation\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_authors.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_decomposition.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_defenition.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_defenition_area.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_dl1.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_dl2.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_dl3.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_domain.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_example.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_explanation.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_full_semantic.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_illustration.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_relation_chema.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_statements.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_statement_definition.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_subset.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_superset.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_synonims.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_translate_ru.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_uniq_defenition.gwf
+adding file menu\na_main_menu\na_view_kb\na_semantic_square\a_used_constants.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\text-base
+ignored a_authors.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_decomposition.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_defenition.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_defenition_area.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_dl1.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_dl2.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_dl3.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_domain.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_example.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_explanation.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_full_semantic.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_illustration.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_relation_chema.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_statements.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_statement_definition.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_subset.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_superset.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_synonims.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_translate_ru.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_uniq_defenition.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_used_constants.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_semantic_square\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart
+adding file menu\na_main_menu\na_view_kb\na_standart\a_input_all_pos_arcs.gwf
+adding file menu\na_main_menu\na_view_kb\na_standart\a_output_all_arcs.gwf
+adding file menu\na_main_menu\na_view_kb\na_standart\a_output_all_pos_arcs.gwf
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn
+ignored all-wcprops in ../fs_repo_src\ui/menu
+ignored entries in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\text-base
+ignored a_input_all_pos_arcs.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_output_all_arcs.gwf.svn-base in ../fs_repo_src\ui/menu
+ignored a_output_all_pos_arcs.gwf.svn-base in ../fs_repo_src\ui/menu
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\tmp
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\tmp\props
+scanning ../fs_repo_src\ui/menu\na_main_menu\na_view_kb\na_standart\.svn\tmp\text-base
+Aplying rule '['new', 'include/_keynodes.scsy']'...
+Aplying rule '['inc', 'beg', 'include/_keynodes.scsy', '<-', 'ordinal.scsy']'...
+Aplying rule '['gwfkey', 'etc/com_keynodes_src/com_keynodes.gwf', '->', 'include/_keynodes.scsy', '/etc/com_keynodes']'...
+Aplying rule '['gwfkey', 'etc/questions_src/questions_keynodes.gwf', '->', 'include/_keynodes.scsy', '/etc/questions']'...
+Aplying rule '['gwfkey', 'ui/core_src/ui_keynodes.gwf', '->', 'include/_keynodes.scsy', '/ui/core']'...
+Aplying rule '['scg', 'seb/test', '->', 'seb/test']'...
+Generating scg file '../fs_repo_src\seb/test.scg' from '../fs_repo_src\seb/test'
+scanning ../fs_repo_src\seb/test
+adding file test\geo_test.gwf
+adding file test\lui_test.gwf
+adding file test\s2t_test1.gwf
+adding file test\test_ui_cmds.gwf
+adding file test\triangle.gwf
+adding file test\тест поиска отношения.gwf
+scanning ../fs_repo_src\seb/test\.svn
+ignored all-wcprops in ../fs_repo_src\seb/test
+ignored entries in ../fs_repo_src\seb/test
+scanning ../fs_repo_src\seb/test\.svn\prop-base
+scanning ../fs_repo_src\seb/test\.svn\props
+scanning ../fs_repo_src\seb/test\.svn\text-base
+ignored lui_test.gwf.svn-base in ../fs_repo_src\seb/test
+ignored s2t_test1.gwf.svn-base in ../fs_repo_src\seb/test
+ignored test_ui_cmds.gwf.svn-base in ../fs_repo_src\seb/test
+ignored тест поиска отношения.gwf.svn-base in ../fs_repo_src\seb/test
+scanning ../fs_repo_src\seb/test\.svn\tmp
+scanning ../fs_repo_src\seb/test\.svn\tmp\prop-base
+scanning ../fs_repo_src\seb/test\.svn\tmp\props
+scanning ../fs_repo_src\seb/test\.svn\tmp\text-base
+Aplying rule '['scg', 'seb/demo', '->', 'seb/demo']'...
+Generating scg file '../fs_repo_src\seb/demo.scg' from '../fs_repo_src\seb/demo'
+scanning ../fs_repo_src\seb/demo
+ignored arraydemo0001_0737.avi in ../fs_repo_src\seb/demo
+ignored go2slipNeutre.swf in ../fs_repo_src\seb/demo
+ignored hestekor.swf in ../fs_repo_src\seb/demo
+ignored IMG_0151.png in ../fs_repo_src\seb/demo
+adding file demo\media_test.scsy
+ignored moleculs.png in ../fs_repo_src\seb/demo
+ignored Plumiferos_persecucion_casting.mpg in ../fs_repo_src\seb/demo
+ignored video.avi in ../fs_repo_src\seb/demo
+ignored yes-no.swf in ../fs_repo_src\seb/demo
+Aplying rule '['scg', 'ui/lui', '->', 'ui/lui']'...
+Generating scg file '../fs_repo_src\ui/lui.scg' from '../fs_repo_src\ui/lui'
+scanning ../fs_repo_src\ui/lui
+adding file lui\keynodes.gwf
+scanning ../fs_repo_src\ui/lui\.svn
+ignored all-wcprops in ../fs_repo_src\ui/lui
+ignored entries in ../fs_repo_src\ui/lui
+scanning ../fs_repo_src\ui/lui\.svn\prop-base
+scanning ../fs_repo_src\ui/lui\.svn\props
+scanning ../fs_repo_src\ui/lui\.svn\text-base
+ignored keynodes.gwf.svn-base in ../fs_repo_src\ui/lui
+scanning ../fs_repo_src\ui/lui\.svn\tmp
+scanning ../fs_repo_src\ui/lui\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/lui\.svn\tmp\props
+scanning ../fs_repo_src\ui/lui\.svn\tmp\text-base
+scanning ../fs_repo_src\ui/lui\patterns
+adding file lui\patterns\шаблон(идентификация).gwf
+adding file lui\patterns\шаблон(определение).gwf
+adding file lui\patterns\шаблон(отн.обл.опр.пересек.).gwf
+adding file lui\patterns\шаблон(отн.обл.опр.явл.надмн.).gwf
+adding file lui\patterns\шаблон(пояснение).gwf
+adding file lui\patterns\шаблон(разбиение).gwf
+adding file lui\patterns\шаблон(утв.опр.типа).gwf
+adding file lui\patterns\шаблон(утверждения).gwf
+scanning ../fs_repo_src\ui/lui\patterns\.svn
+ignored all-wcprops in ../fs_repo_src\ui/lui
+ignored entries in ../fs_repo_src\ui/lui
+scanning ../fs_repo_src\ui/lui\patterns\.svn\prop-base
+scanning ../fs_repo_src\ui/lui\patterns\.svn\props
+scanning ../fs_repo_src\ui/lui\patterns\.svn\text-base
+ignored шаблон(идентификация).gwf.svn-base in ../fs_repo_src\ui/lui
+ignored шаблон(определение).gwf.svn-base in ../fs_repo_src\ui/lui
+ignored шаблон(отн.обл.опр.пересек.).gwf.svn-base in ../fs_repo_src\ui/lui
+ignored шаблон(отн.обл.опр.явл.надмн.).gwf.svn-base in ../fs_repo_src\ui/lui
+ignored шаблон(пояснение).gwf.svn-base in ../fs_repo_src\ui/lui
+ignored шаблон(разбиение).gwf.svn-base in ../fs_repo_src\ui/lui
+ignored шаблон(утв.опр.типа).gwf.svn-base in ../fs_repo_src\ui/lui
+ignored шаблон(утверждения).gwf.svn-base in ../fs_repo_src\ui/lui
+scanning ../fs_repo_src\ui/lui\patterns\.svn\tmp
+scanning ../fs_repo_src\ui/lui\patterns\.svn\tmp\prop-base
+scanning ../fs_repo_src\ui/lui\patterns\.svn\tmp\props
+scanning ../fs_repo_src\ui/lui\patterns\.svn\tmp\text-base
+Aplying rule '['inc', 'beg', 'ui/lui.scg', '<-', 'com_keynodes.scsy']'...
+build ../fs_repo_src/etc/com_keynodes.scg
+parsing ../fs_repo_src/etc\com_keynodes_src\bel_lang.gwf
+parsing ../fs_repo_src/etc\com_keynodes_src\com_keynodes.gwf
+parsing ../fs_repo_src/etc\com_keynodes_src\eng_lang.gwf
+parsing ../fs_repo_src/etc\com_keynodes_src\rus_lang.gwf
+preparing for building
+build ../fs_repo_src/etc/im_keynode.scs
+build ../fs_repo_src/etc/nsm.scs
+build ../fs_repo_src/etc/operations.scg
+parsing ../fs_repo_src/etc\operations_src\Спец.операция отображения карты.gwf
+parsing ../fs_repo_src/etc\operations_src\Спец.операция поиска полной семантической окрестности.gwf
+preparing for building
+build ../fs_repo_src/etc/questions.scg
+parsing ../fs_repo_src/etc\questions_src\questions_keynodes.gwf
+parsing ../fs_repo_src/etc\questions_src\ея.примеры.вопросов.gwf
+parsing ../fs_repo_src/etc\questions_src\спец.поиск иллюстрации объекта.gwf
+parsing ../fs_repo_src/etc\questions_src\спец.поиск полной семантической окрестности.gwf
+preparing for building
+build ../fs_repo_src/home/mimes.scs
+build ../fs_repo_src/home/nsm/config.scs
+build ../fs_repo_src/info.scs
+build ../fs_repo_src/lib/check/check_impl_with_conj.m4scp
+build ../fs_repo_src/lib/check/check_linked_vars.m4scp
+build ../fs_repo_src/lib/check/check_unit_of_measure.m4scp
+build ../fs_repo_src/lib/core/full_merge.m4scp
+build ../fs_repo_src/lib/core/seg_open.m4scp
+build ../fs_repo_src/lib/core/set_merge.m4scp
+build ../fs_repo_src/lib/core/set_rm_el.m4scp
+build ../fs_repo_src/lib/core/set_sub.m4scp
+build ../fs_repo_src/lib/erase/erase_sys_gen_unpresented_params.m4scp
+build ../fs_repo_src/lib/gen/gen_all_accessories.m4scp
+build ../fs_repo_src/lib/gen/gen_atom_copy_with_replacement.m4scp
+build ../fs_repo_src/lib/gen/gen_bad_result_of_find_value_production.m4scp
+build ../fs_repo_src/lib/gen/gen_conjunction_union.m4scp
+build ../fs_repo_src/lib/gen/gen_good_result_of_find_value_production.m4scp
+build ../fs_repo_src/lib/gen/gen_impl_link.m4scp
+build ../fs_repo_src/lib/gen/gen_impl_template.m4scp
+build ../fs_repo_src/lib/gen/gen_link.m4scp
+build ../fs_repo_src/lib/gen/gen_meta_atom.m4scp
+build ../fs_repo_src/lib/gen/gen_meta_node.m4scp
+build ../fs_repo_src/lib/gen/gen_production_for_eq.m4scp
+build ../fs_repo_src/lib/gen/gen_production_for_impl.m4scp
+build ../fs_repo_src/lib/gen/gen_production_using_classes.m4scp
+build ../fs_repo_src/lib/gen/gen_quantity_value.m4scp
+build ../fs_repo_src/lib/gen/gen_value_production.m4scp
+build ../fs_repo_src/lib/gen/gen_var_link.m4scp
+build ../fs_repo_src/lib/gen/gen_var_node_copy.m4scp
+build ../fs_repo_src/lib/other/construct.scs
+build ../fs_repo_src/lib/other/element_content_subroutine.scs
+build ../fs_repo_src/lib/other/erase_elements.scs
+build ../fs_repo_src/lib/other/print_sys_search.m4scp
+build ../fs_repo_src/lib/other/verify_all.scs
+build ../fs_repo_src/lib/questions/answer_make.m4scp
+build ../fs_repo_src/lib/questions/mark_question.m4scp
+build ../fs_repo_src/lib/search/all_input_pos_arcs.m4scp
+build ../fs_repo_src/lib/search/all_output_pos_arcs.m4scp
+build ../fs_repo_src/lib/search/authors.m4scp
+build ../fs_repo_src/lib/search/base_cycle.m4scp
+build ../fs_repo_src/lib/search/base_rel_in_with_sheaf.m4scp
+build ../fs_repo_src/lib/search/base_rel_search.m4scp
+build ../fs_repo_src/lib/search/bin_pair_begin.m4scp
+build ../fs_repo_src/lib/search/bin_pair_begin1.m4scp
+build ../fs_repo_src/lib/search/bin_pair_begin_except_rel.m4scp
+build ../fs_repo_src/lib/search/bin_pair_end.m4scp
+build ../fs_repo_src/lib/search/bin_pair_end1.m4scp
+build ../fs_repo_src/lib/search/bin_pair_end_except_rel.m4scp
+build ../fs_repo_src/lib/search/decomposition.m4scp
+build ../fs_repo_src/lib/search/identifiers.m4scp
+build ../fs_repo_src/lib/search/illustration.m4scp
+build ../fs_repo_src/lib/search/search_direct_mapping.m4scp
+build ../fs_repo_src/lib/search/search_first_and_second.m4scp
+build ../fs_repo_src/lib/search/search_if_and_then.m4scp
+build ../fs_repo_src/lib/search/search_inverse_mapping.m4scp
+build ../fs_repo_src/lib/search/search_linked_nodes.m4scp
+build ../fs_repo_src/lib/search/search_node_objects.m4scp
+build ../fs_repo_src/lib/search/search_node_theory.m4scp
+build ../fs_repo_src/lib/search/search_node_theory_stat.m4scp
+build ../fs_repo_src/lib/search/search_quantity_value.m4scp
+build ../fs_repo_src/lib/search/search_stat_theory.m4scp
+build ../fs_repo_src/lib/ui/add_child_command.m4scp
+build ../fs_repo_src/lib/ui/change_localization.m4scp
+build ../fs_repo_src/lib/ui/remove_child_command.m4scp
+build ../fs_repo_src/operation/arifmetic_operations/addition.m4scp
+build ../fs_repo_src/operation/arifmetic_operations/calculation.m4scp
+build ../fs_repo_src/operation/arifmetic_operations/exponention.m4scp
+build ../fs_repo_src/operation/arifmetic_operations/multiplication.m4scp
+build ../fs_repo_src/operation/check_generalized_statement_eq.m4scp
+build ../fs_repo_src/operation/check_generalized_statement_impl.m4scp
+build ../fs_repo_src/operation/check_validity.m4scp
+build ../fs_repo_src/operation/construct_start.m4scp
+build ../fs_repo_src/operation/editing_sc/construct.scs
+build ../fs_repo_src/operation/editing_sc/construct_start.m4scp
+build ../fs_repo_src/operation/editing_sc/editing_sc_handler.m4scp
+build ../fs_repo_src/operation/editing_sc/element_content_subroutine.scs
+build ../fs_repo_src/operation/editing_sc/element_content_subroutine_start.m4scp
+build ../fs_repo_src/operation/editing_sc/erase_elements.scs
+build ../fs_repo_src/operation/editing_sc/erase_set_elements_start.m4scp
+build ../fs_repo_src/operation/element_content_subroutine_start.m4scp
+build ../fs_repo_src/operation/erase_set_elements_start.m4scp
+build ../fs_repo_src/operation/find_formula.m4scp
+build ../fs_repo_src/operation/find_value.m4scp
+build ../fs_repo_src/operation/find_value_production.m4scp
+build ../fs_repo_src/operation/gen_all_memberships.m4scp
+build ../fs_repo_src/operation/gen_transitive_links.m4scp
+build ../fs_repo_src/operation/get_square.m4scp
+build ../fs_repo_src/operation/postorder_tree_search_manager.m4scp
+build ../fs_repo_src/operation/postorder_tree_search_op.m4scp
+build ../fs_repo_src/operation/search_all_input_pos_arcs.m4scp
+build ../fs_repo_src/operation/search_all_output_pos_arcs.m4scp
+build ../fs_repo_src/operation/search_authors.m4scp
+build ../fs_repo_src/operation/search_decomposition.m4scp
+build ../fs_repo_src/operation/search_identifiers.m4scp
+build ../fs_repo_src/operation/search_illustration.m4scp
+build ../fs_repo_src/operation/search_subsets.m4scp
+build ../fs_repo_src/operation/temp.m4scp
+build ../fs_repo_src/operation/ui_add_child_command.m4scp
+build ../fs_repo_src/operation/ui_change_localization.m4scp
+build ../fs_repo_src/operation/ui_remove_child_command.m4scp
+build ../fs_repo_src/operation/validity_eq_statement.m4scp
+build ../fs_repo_src/operation/verification/verify_all_handler.m4scp
+build ../fs_repo_src/operation/verification/verify_one.scs
+build ../fs_repo_src/operation/verify_all.m4scp
+build ../fs_repo_src/operation/_for_redo/all_output_all_types.m4scp
+build ../fs_repo_src/operation/_for_redo/graph.m4scp
+build ../fs_repo_src/operation/_for_redo/hi_world.m4scp
+build ../fs_repo_src/operation/_for_redo/lib.m4scp
+build ../fs_repo_src/operation/_for_redo/local_atr.m4scp
+build ../fs_repo_src/operation/_for_redo/local_cheaf.m4scp
+build ../fs_repo_src/operation/_for_redo/run_nsm_command.m4scp
+build ../fs_repo_src/operation/_for_redo/searchEnvironmentSmart.m4scp
+build ../fs_repo_src/operation/_for_redo/search_aks.m4scp
+build ../fs_repo_src/operation/_for_redo/search_all_rel_str_by_elmn.m4scp
+build ../fs_repo_src/operation/_for_redo/search_attributes.m4scp
+build ../fs_repo_src/operation/_for_redo/search_attributes_common.m4scp
+build ../fs_repo_src/operation/_for_redo/search_authers.m4scp
+build ../fs_repo_src/operation/_for_redo/search_classification.m4scp
+build ../fs_repo_src/operation/_for_redo/search_classification_way.m4scp
+build ../fs_repo_src/operation/_for_redo/search_class_atr.m4scp
+build ../fs_repo_src/operation/_for_redo/search_concept_level.m4scp
+build ../fs_repo_src/operation/_for_redo/search_concept_level_elements.m4scp
+build ../fs_repo_src/operation/_for_redo/search_conflicting.m4scp
+build ../fs_repo_src/operation/_for_redo/search_const_in_def.m4scp
+build ../fs_repo_src/operation/_for_redo/search_decomp.m4scp
+build ../fs_repo_src/operation/_for_redo/search_define_obj.m4scp
+build ../fs_repo_src/operation/_for_redo/search_example.m4scp
+build ../fs_repo_src/operation/_for_redo/search_full_semantic.m4scp
+build ../fs_repo_src/operation/_for_redo/search_general_statement.m4scp
+build ../fs_repo_src/operation/_for_redo/search_ident.m4scp
+build ../fs_repo_src/operation/_for_redo/search_ident_img.m4scp
+build ../fs_repo_src/operation/_for_redo/search_ilystr.m4scp
+build ../fs_repo_src/operation/_for_redo/search_include_elements.m4scp
+build ../fs_repo_src/operation/_for_redo/search_logic_shema_vidation.m4scp
+build ../fs_repo_src/operation/_for_redo/search_min_semantic.m4scp
+build ../fs_repo_src/operation/_for_redo/search_modus_operandi.m4scp
+build ../fs_repo_src/operation/_for_redo/search_not_define_obj.m4scp
+build ../fs_repo_src/operation/_for_redo/search_object.m4scp
+build ../fs_repo_src/operation/_for_redo/search_objs_def_by.m4scp
+build ../fs_repo_src/operation/_for_redo/search_obj_pred.m4scp
+build ../fs_repo_src/operation/_for_redo/search_obj_rel.m4scp
+build ../fs_repo_src/operation/_for_redo/search_poiasn.m4scp
+build ../fs_repo_src/operation/_for_redo/search_pred.m4scp
+build ../fs_repo_src/operation/_for_redo/search_rel_objs.m4scp
+build ../fs_repo_src/operation/_for_redo/search_semantic.m4scp
+build ../fs_repo_src/operation/_for_redo/search_subset.m4scp
+build ../fs_repo_src/operation/_for_redo/search_teor.m4scp
+build ../fs_repo_src/operation/_for_redo/search_translation.m4scp
+build ../fs_repo_src/operation/_for_redo/search_upclasses.m4scp
+build ../fs_repo_src/operation/_for_redo/search_vidation.m4scp
+build ../fs_repo_src/operation/_for_redo/search_ways.m4scp
+build ../fs_repo_src/operation/_for_redo/set_operation_handler.m4scp
+build ../fs_repo_src/operation/_for_redo/ways.m4scp
+build ../fs_repo_src/seb/chemistry.scg
+parsing ../fs_repo_src/seb\chemistry_src\_keynodes.gwf
+preparing for building
+build ../fs_repo_src/seb/demo.scg
+preparing for building
+build ../fs_repo_src/seb/lingv.scs
+build ../fs_repo_src/seb/planimetry.scg
+parsing ../fs_repo_src/seb\planimetry_src\extend.gwf
+parsing ../fs_repo_src/seb\planimetry_src\Request.gwf
+parsing ../fs_repo_src/seb\planimetry_src\Значения_Геометрия.gwf
+parsing ../fs_repo_src/seb\planimetry_src\Определение медианы треугольника.gwf
+parsing ../fs_repo_src/seb\planimetry_src\Определение равнобедренного треугольника.gwf
+parsing ../fs_repo_src/seb\planimetry_src\Условие.gwf
+preparing for building
+build ../fs_repo_src/seb/rus.scs
+build ../fs_repo_src/seb/space.scg
+parsing ../fs_repo_src/seb\space_src\mercury.gwf
+parsing ../fs_repo_src/seb\space_src\sun_planets.gwf
+parsing ../fs_repo_src/seb\space_src\sun_system.gwf
+parsing ../fs_repo_src/seb\space_src\venus.gwf
+parsing ../fs_repo_src/seb\space_src\_keynodes.gwf
+preparing for building
+build ../fs_repo_src/seb/test.scg
+parsing ../fs_repo_src/seb\test\geo_test.gwf
+parsing ../fs_repo_src/seb\test\lui_test.gwf
+parsing ../fs_repo_src/seb\test\s2t_test1.gwf
+parsing ../fs_repo_src/seb\test\test_ui_cmds.gwf
+parsing ../fs_repo_src/seb\test\triangle.gwf
+parsing ../fs_repo_src/seb\test\тест поиска отношения.gwf
+preparing for building
+build ../fs_repo_src/startup.scs
+build ../fs_repo_src/ui/core.scg
+parsing ../fs_repo_src/ui\core_src\geomx.gwf
+parsing ../fs_repo_src/ui\core_src\scgx.gwf
+parsing ../fs_repo_src/ui\core_src\spacex.gwf
+parsing ../fs_repo_src/ui\core_src\string.gwf
+parsing ../fs_repo_src/ui\core_src\ui_all_translations.gwf
+parsing ../fs_repo_src/ui\core_src\ui_atom_command.gwf
+parsing ../fs_repo_src/ui\core_src\ui_keynodes.gwf
+parsing ../fs_repo_src/ui\core_src\ui_no_atom_command.gwf
+parsing ../fs_repo_src/ui\core_src\ui_output_window_set.gwf
+parsing ../fs_repo_src/ui\core_src\ui_question_command.gwf
+parsing ../fs_repo_src/ui\core_src\voice.gwf
+preparing for building
+build ../fs_repo_src/ui/lui.scg
+parsing ../fs_repo_src/ui\lui\keynodes.gwf
+parsing ../fs_repo_src/ui\lui\patterns\шаблон(идентификация).gwf
+parsing ../fs_repo_src/ui\lui\patterns\шаблон(определение).gwf
+parsing ../fs_repo_src/ui\lui\patterns\шаблон(отн.обл.опр.пересек.).gwf
+parsing ../fs_repo_src/ui\lui\patterns\шаблон(отн.обл.опр.явл.надмн.).gwf
+parsing ../fs_repo_src/ui\lui\patterns\шаблон(пояснение).gwf
+parsing ../fs_repo_src/ui\lui\patterns\шаблон(разбиение).gwf
+parsing ../fs_repo_src/ui\lui\patterns\шаблон(утв.опр.типа).gwf
+parsing ../fs_repo_src/ui\lui\patterns\шаблон(утверждения).gwf
+preparing for building
+build ../fs_repo_src/ui/menu.scg
+parsing ../fs_repo_src/ui\menu\na_main_menu.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_edit.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_edit_sc.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_gis.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_help.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_lui.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_problems_solution.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_questions.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_ui.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_edit_sc\a_del_sc.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_edit_sc\a_difference.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_edit_sc\a_el_content.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_edit_sc\a_gen_sc.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_gis\a_show_map.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_help\na_ui.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_help\na_ui\a_help_ui_cmd_example.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_help\na_ui\na_interactive\a_help_ui_draw_triangle.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_help\na_ui\na_interactive\a_help_ui_get_decomposition.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_help\na_ui\na_interactive\a_help_ui_get_identifiers.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_help\na_ui\na_interactive\a_help_ui_get_illustrations.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_lui\a_change_tts.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_lui\a_speak.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_problems_solution\a_formula_calculation.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_problems_solution\a_square_request.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_problems_solution\a_statement_validity.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_problems_solution\a_var_value_request.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_questions\a_verification.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_ui\na_commands.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_ui\na_translations.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_ui\na_commands\a_add_child_command.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_ui\na_commands\a_rem_child_command.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_ui\na_translations\a_change_translation.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view\na_scale.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view\na_scale\a_scale_default.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view\na_scale\a_scale_in.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view\na_scale\a_scale_out.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\a_echo.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\a_echo_select.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_classification.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_identification.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_standard.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_classification\a_decomposition.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_identification\a_identifiers.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_identification\a_illustration.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_authors.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_decomposition.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_defenition.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_defenition_area.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_dl1.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_dl2.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_dl3.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_domain.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_example.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_explanation.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_full_semantic.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_illustration.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_relation_chema.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_statements.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_statement_definition.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_subset.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_superset.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_synonims.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_translate_ru.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_uniq_defenition.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_semantic_square\a_used_constants.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_standart\a_input_all_pos_arcs.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_standart\a_output_all_arcs.gwf
+parsing ../fs_repo_src/ui\menu\na_main_menu\na_view_kb\na_standart\a_output_all_pos_arcs.gwf
+preparing for building
+build ../fs_repo_src/users.scs
+Generate ../fs_repo/META
+Generate ../fs_repo/etc/META
+Generate ../fs_repo/home/META
+Generate ../fs_repo/home/nsm/META
+Generate ../fs_repo/lib/META
+Generate ../fs_repo/lib/check/META
+Generate ../fs_repo/lib/core/META
+Generate ../fs_repo/lib/erase/META
+Generate ../fs_repo/lib/gen/META
+Generate ../fs_repo/lib/other/META
+Generate ../fs_repo/lib/questions/META
+Generate ../fs_repo/lib/search/META
+Generate ../fs_repo/lib/ui/META
+Generate ../fs_repo/operation/META
+Generate ../fs_repo/operation/arifmetic_operations/META
+Generate ../fs_repo/operation/editing_sc/META
+Generate ../fs_repo/operation/verification/META
+Generate ../fs_repo/operation/_for_redo/META
+Generate ../fs_repo/proc/META
+Generate ../fs_repo/seb/META
+Generate ../fs_repo/tmp/META
+Generate ../fs_repo/ui/META
+Find 0 errors

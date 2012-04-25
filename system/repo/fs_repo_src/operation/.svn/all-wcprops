@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/operation
+END
+ui_change_localization.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/ui_change_localization.m4scp
+END
+search_identifiers.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ostis/!svn/ver/1182/trunk/ui/system/repo/fs_repo_src/operation/search_identifiers.m4scp
+END
+ui_remove_child_command.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ostis/!svn/ver/747/trunk/ui/system/repo/fs_repo_src/operation/ui_remove_child_command.m4scp
+END
+check_generalized_statement_impl.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/ostis/!svn/ver/751/trunk/ui/system/repo/fs_repo_src/operation/check_generalized_statement_impl.m4scp
+END
+verify_all.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ostis/!svn/ver/751/trunk/ui/system/repo/fs_repo_src/operation/verify_all.m4scp
+END
+validity_eq_statement.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/validity_eq_statement.m4scp
+END
+check_generalized_statement_eq.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/check_generalized_statement_eq.m4scp
+END
+get_square.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/get_square.m4scp
+END
+gen_all_memberships.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/operation/gen_all_memberships.m4scp
+END
+construct_start.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ostis/!svn/ver/751/trunk/ui/system/repo/fs_repo_src/operation/construct_start.m4scp
+END
+search_decomposition.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/search_decomposition.m4scp
+END
+temp.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/operation/temp.m4scp
+END
+find_formula.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/find_formula.m4scp
+END
+search_all_input_pos_arcs.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/search_all_input_pos_arcs.m4scp
+END
+search_all_output_pos_arcs.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/search_all_output_pos_arcs.m4scp
+END
+search_authors.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/search_authors.m4scp
+END
+find_value.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/operation/find_value.m4scp
+END
+search_subsets.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/search_subsets.m4scp
+END
+search_illustration.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/search_illustration.m4scp
+END
+postorder_tree_search_manager.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/operation/postorder_tree_search_manager.m4scp
+END
+element_content_subroutine_start.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/ostis/!svn/ver/751/trunk/ui/system/repo/fs_repo_src/operation/element_content_subroutine_start.m4scp
+END
+gen_transitive_links.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/operation/gen_transitive_links.m4scp
+END
+find_value_production.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/operation/find_value_production.m4scp
+END
+check_validity.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/check_validity.m4scp
+END
+erase_set_elements_start.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/ostis/!svn/ver/751/trunk/ui/system/repo/fs_repo_src/operation/erase_set_elements_start.m4scp
+END
+postorder_tree_search_op.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/ostis/!svn/ver/1149/trunk/ui/system/repo/fs_repo_src/operation/postorder_tree_search_op.m4scp
+END
+ui_add_child_command.m4scp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ostis/!svn/ver/922/trunk/ui/system/repo/fs_repo_src/operation/ui_add_child_command.m4scp
+END

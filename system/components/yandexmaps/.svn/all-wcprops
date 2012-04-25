@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ostis/!svn/ver/1120/trunk/ui/system/components/image
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/image/__init__.py
+END
+image_viewer.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ostis/!svn/ver/1120/trunk/ui/system/components/image/image_viewer.py
+END
+image_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/image/image_init.py
+END
+image_environment.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/ostis/!svn/ver/412/trunk/ui/system/components/image/image_environment.py
+END
