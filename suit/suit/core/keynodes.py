@@ -168,8 +168,7 @@ class ui:
     format_swf              =   session.find_keynode_full_uri(u"/ui/core/SWF")
     
     format_midmif           =   session.find_keynode_full_uri(u"/ui/core/MIDMIF")
-	
-	format_ymapsml          =   session.find_keynode_full_uri(u"/ui/core/YMAPSML") 
+    format_ymapsml          =   session.find_keynode_full_uri(u"/ui/core/YMAPSML") 
     
     format_objx             =   session.find_keynode_full_uri(u"/ui/core/OBJx")
     
