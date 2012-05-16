@@ -1,258 +1,263 @@
-00:03:43: Creating resource group General
-00:03:43: Creating resource group Internal
-00:03:43: Creating resource group Autodetect
-00:03:43: SceneManagerFactory for type 'DefaultSceneManager' registered.
-00:03:43: Registering ResourceManager for type Material
-00:03:43: Registering ResourceManager for type Mesh
-00:03:43: Registering ResourceManager for type Skeleton
-00:03:43: MovableObjectFactory for type 'ParticleSystem' registered.
-00:03:43: OverlayElementFactory for type Panel registered.
-00:03:43: OverlayElementFactory for type BorderPanel registered.
-00:03:43: OverlayElementFactory for type TextArea registered.
-00:03:43: Registering ResourceManager for type Font
-00:03:43: ArchiveFactory for archive type FileSystem registered.
-00:03:43: ArchiveFactory for archive type Zip registered.
-00:03:43: FreeImage version: 3.10.0
-00:03:43: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
-00:03:44: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2
-00:03:44: DDS codec registering
-00:03:44: Registering ResourceManager for type HighLevelGpuProgram
-00:03:44: Registering ResourceManager for type Compositor
-00:03:44: MovableObjectFactory for type 'Entity' registered.
-00:03:44: MovableObjectFactory for type 'Light' registered.
-00:03:44: MovableObjectFactory for type 'BillboardSet' registered.
-00:03:44: MovableObjectFactory for type 'ManualObject' registered.
-00:03:44: MovableObjectFactory for type 'BillboardChain' registered.
-00:03:44: MovableObjectFactory for type 'RibbonTrail' registered.
-00:03:44: Loading library ./plugins\RenderSystem_GL.dll
-00:03:44: Installing plugin: GL RenderSystem
-00:03:44: OpenGL Rendering Subsystem created.
-00:03:44: Plugin successfully installed
-00:03:44: Loading library ./plugins\RenderSystem_Direct3D9.dll
-00:03:45: Installing plugin: D3D9 RenderSystem
-00:03:45: D3D9 : Direct3D9 Rendering Subsystem created.
-00:03:45: D3D9: Driver Detection Starts
-00:03:45: D3D9: Driver Detection Ends
-00:03:45: Plugin successfully installed
-00:03:45: Loading library ./plugins\Plugin_ParticleFX.dll
-00:03:45: Installing plugin: ParticleFX
-00:03:45: Particle Emitter Type 'Point' registered
-00:03:45: Particle Emitter Type 'Box' registered
-00:03:45: Particle Emitter Type 'Ellipsoid' registered
-00:03:45: Particle Emitter Type 'Cylinder' registered
-00:03:45: Particle Emitter Type 'Ring' registered
-00:03:45: Particle Emitter Type 'HollowEllipsoid' registered
-00:03:45: Particle Affector Type 'LinearForce' registered
-00:03:45: Particle Affector Type 'ColourFader' registered
-00:03:45: Particle Affector Type 'ColourFader2' registered
-00:03:45: Particle Affector Type 'ColourImage' registered
-00:03:45: Particle Affector Type 'ColourInterpolator' registered
-00:03:45: Particle Affector Type 'Scaler' registered
-00:03:45: Particle Affector Type 'Rotator' registered
-00:03:45: Particle Affector Type 'DirectionRandomiser' registered
-00:03:45: Particle Affector Type 'DeflectorPlane' registered
-00:03:45: Plugin successfully installed
-00:03:45: *-*-* OGRE Initialising
-00:03:45: *-*-* Version 1.6.1 (Shoggoth)
-00:03:45: D3D9 : RenderSystem Option: Allow NVPerfHUD = No
-00:03:45: D3D9 : RenderSystem Option: Anti aliasing = None
-00:03:45: D3D9 : RenderSystem Option: Floating-point mode = Fastest
-00:03:45: D3D9 : RenderSystem Option: Full Screen = No
-00:03:45: D3D9 : RenderSystem Option: Rendering Device = NVIDIA GeForce GTS 450
-00:03:45: D3D9 : RenderSystem Option: VSync = Yes
-00:03:45: D3D9 : RenderSystem Option: Video Mode = 1024 x 768 @ 32-bit colour
-00:03:45: D3D9 : RenderSystem Option: sRGB Gamma Conversion = No
-00:03:46: CPU Identifier & Features
-00:03:46: -------------------------
-00:03:46:  *   CPU ID: GenuineIntel: Intel(R) Core(TM) i7 CPU         870  @ 2.93GHz
-00:03:46:  *      SSE: yes
-00:03:46:  *     SSE2: yes
-00:03:46:  *     SSE3: yes
-00:03:46:  *      MMX: yes
-00:03:46:  *   MMXEXT: yes
-00:03:46:  *    3DNOW: no
-00:03:46:  * 3DNOWEXT: no
-00:03:46:  *     CMOV: yes
-00:03:46:  *      TSC: yes
-00:03:46:  *      FPU: yes
-00:03:46:  *      PRO: yes
-00:03:46:  *       HT: no
-00:03:46: -------------------------
-00:03:46: D3D9 : Subsystem Initialising
-00:03:46: D3D9RenderSystem::_createRenderWindow "Semantic User Interface Toolkit. Kernel version: 0.4.0", 1024x768 windowed  miscParams: FSAA=0 FSAAQuality=0 colourDepth=32 gamma=false useNVPerfHUD=false vsync=true 
-00:03:46: D3D9 : Created D3D9 Rendering Window 'Semantic User Interface Toolkit. Kernel version: 0.4.0' : 1024x768, 32bpp
-00:03:46: Registering ResourceManager for type Texture
-00:03:46: Registering ResourceManager for type GpuProgram
-00:03:46: D3D9: Vertex texture format supported - PF_A8R8G8B8
-00:03:46: D3D9: Vertex texture format supported - PF_B8G8R8A8
-00:03:46: D3D9: Vertex texture format supported - PF_FLOAT16_RGB
-00:03:46: D3D9: Vertex texture format supported - PF_FLOAT16_RGBA
-00:03:46: D3D9: Vertex texture format supported - PF_FLOAT32_RGB
-00:03:46: D3D9: Vertex texture format supported - PF_FLOAT32_RGBA
-00:03:46: D3D9: Vertex texture format supported - PF_R8G8B8A8
-00:03:46: D3D9: Vertex texture format supported - PF_DEPTH
-00:03:46: D3D9: Vertex texture format supported - PF_FLOAT16_R
-00:03:46: D3D9: Vertex texture format supported - PF_FLOAT32_R
-00:03:46: D3D9: Vertex texture format supported - PF_FLOAT16_GR
-00:03:46: D3D9: Vertex texture format supported - PF_FLOAT32_GR
-00:03:46: RenderSystem capabilities
-00:03:46: -------------------------
-00:03:46: RenderSystem Name: Direct3D9 Rendering Subsystem
-00:03:46: GPU Vendor: nvidia
-00:03:46: Device Name: NVIDIA GeForce GTS 450
-00:03:46: Driver Version: 8.17.12.9610
-00:03:46:  * Fixed function pipeline: yes
-00:03:46:  * Hardware generation of mipmaps: yes
-00:03:46:  * Texture blending: yes
-00:03:46:  * Anisotropic texture filtering: yes
-00:03:46:  * Dot product texture operation: yes
-00:03:46:  * Cube mapping: yes
-00:03:46:  * Hardware stencil buffer: yes
-00:03:46:    - Stencil depth: 8
-00:03:46:    - Two sided stencil support: yes
-00:03:46:    - Wrap stencil values: yes
-00:03:46:  * Hardware vertex / index buffers: yes
-00:03:46:  * Vertex programs: yes
-00:03:46:  * Fragment programs: yes
-00:03:46:  * Geometry programs: no
-00:03:46:  * Supported Shader Profiles: hlsl ps_1_1 ps_1_2 ps_1_3 ps_1_4 ps_2_0 ps_2_a ps_2_b ps_2_x ps_3_0 vs_1_1 vs_2_0 vs_2_a vs_2_x vs_3_0
-00:03:46:  * Texture Compression: yes
-00:03:46:    - DXT: yes
-00:03:46:    - VTC: no
-00:03:46:  * Scissor Rectangle: yes
-00:03:46:  * Hardware Occlusion Query: yes
-00:03:46:  * User clip planes: yes
-00:03:46:  * VET_UBYTE4 vertex element type: yes
-00:03:46:  * Infinite far plane projection: yes
-00:03:46:  * Hardware render-to-texture: yes
-00:03:46:  * Floating point textures: yes
-00:03:46:  * Non-power-of-two textures: yes
-00:03:46:  * Volume textures: yes
-00:03:46:  * Multiple Render Targets: 4
-00:03:46:    - With different bit depths: yes
-00:03:46:  * Point Sprites: yes
-00:03:46:  * Extended point parameters: yes
-00:03:46:  * Max Point Size: 8192
-00:03:46:  * Vertex texture fetch: yes
-00:03:46:    - Max vertex textures: 4
-00:03:46:    - Vertex textures shared: no
-00:03:46:  * Render to Vertex Buffer : no
-00:03:46:  * DirectX per stage constants: yes
-00:03:46: ***************************************
-00:03:46: *** D3D9 : Subsystem Initialised OK ***
-00:03:46: ***************************************
-00:03:46: ResourceBackgroundQueue - threading disabled
-00:03:46: Particle Renderer Type 'billboard' registered
-00:03:47: Added resource location './media/mygui' of type 'FileSystem' to resource group 'General'
-00:03:47: Added resource location './media/backs' of type 'FileSystem' to resource group 'General'
-00:03:47: Creating resource group chemistry
-00:03:47: Added resource location './media/chemistry/meshes' of type 'FileSystem' to resource group 'chemistry'
-00:03:47: Added resource location './media/chemistry/materials/programs' of type 'FileSystem' to resource group 'chemistry'
-00:03:47: Added resource location './media/chemistry/materials/scripts' of type 'FileSystem' to resource group 'chemistry'
-00:03:47: Added resource location './media/chemistry/materials/textures' of type 'FileSystem' to resource group 'chemistry'
-00:03:47: Creating resource group geometry
-00:03:47: Added resource location './media/geometry/base_media.zip' of type 'Zip' to resource group 'geometry'
-00:03:47: Creating resource group graph
-00:03:47: Added resource location './media/graph/meshes' of type 'FileSystem' to resource group 'graph'
-00:03:47: Added resource location './media/graph/materials/scripts' of type 'FileSystem' to resource group 'graph'
-00:03:47: Creating resource group scg
-00:03:47: Added resource location './media/scg/base_media.zip' of type 'Zip' to resource group 'scg'
-00:03:47: Creating resource group space
-00:03:47: Added resource location './media/space/meshes' of type 'FileSystem' to resource group 'space'
-00:03:47: Added resource location './media/space/materials/scripts' of type 'FileSystem' to resource group 'space'
-00:03:47: Added resource location './media/space/materials/textures' of type 'FileSystem' to resource group 'space'
-00:03:47: Initialising resource group General
-00:03:47: Parsing scripts for resource group General
-00:03:47: Parsing script backs.material
-00:03:47: Finished parsing scripts for resource group General
-00:03:48: Texture: scifi_skin.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
-00:03:48: Texture: core_pointer.png: Loading 1 faces(PF_A8R8G8B8,256x128x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x128x1.
-00:03:48: Texture: Default_Texture: Loading 1 faces(PF_BYTE_LA,1024x128x1) with 0 generated mipmaps from Image. Internal format is PF_BYTE_LA,1024x128x1.
-00:03:49: Texture: image__60f21003_p_sc_global_addr: Loading 1 faces(PF_A8R8G8B8,128x128x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
-00:03:49: Added resource location 'E:\ostis\ymapostis\system\components\scg\base\media\code' of type 'FileSystem' to resource group 'scg'
-00:03:49: Added resource location 'E:\ostis\ymapostis\system\components\scg\base\media\textures' of type 'FileSystem' to resource group 'scg'
-00:03:49: Added resource location 'E:\ostis\ymapostis\system\components\scg\base\media\materials' of type 'FileSystem' to resource group 'scg'
-00:03:49: Added resource location 'E:\ostis\ymapostis\system\components\scg\base\media\vis_menu' of type 'FileSystem' to resource group 'General'
-00:03:49: Creating resource group image
-00:03:49: Added resource location 'E:\ostis\ymapostis\system\components\image\media\tmp' of type 'FileSystem' to resource group 'image'
-00:03:50: Added resource location 'E:\ostis\ymapostis\system\components\space\media\meshes' of type 'FileSystem' to resource group 'space'
-00:03:50: Added resource location 'E:\ostis\ymapostis\system\components\space\media\materials' of type 'FileSystem' to resource group 'space'
-00:03:50: Added resource location 'E:\ostis\ymapostis\system\components\space\media\materials\scripts' of type 'FileSystem' to resource group 'space'
-00:03:50: Added resource location 'E:\ostis\ymapostis\system\components\space\media\materials\textures' of type 'FileSystem' to resource group 'space'
-00:03:50: Added resource location 'E:\ostis\ymapostis\system\components\space\media\gui' of type 'FileSystem' to resource group 'General'
-00:03:50: Creating resource group video
-00:03:50: Added resource location '_cache\video' of type 'FileSystem' to resource group 'video'
-00:03:52: Creating resource group yandexmap
-00:03:52: Added resource location 'E:\ostis\ymapostis\system\components\yandexmaps\media\tmp' of type 'FileSystem' to resource group 'yandexmap'
-00:03:52: Parsing scripts for resource group Autodetect
-00:03:52: Finished parsing scripts for resource group Autodetect
-00:03:52: Parsing scripts for resource group Internal
-00:03:52: Finished parsing scripts for resource group Internal
-00:03:52: Parsing scripts for resource group chemistry
-00:03:52: Parsing script chem_atoms.material
-00:03:52: Parsing script chem_base.material
-00:03:52: Parsing script chem_link.material
-00:03:52: Finished parsing scripts for resource group chemistry
-00:03:52: Parsing scripts for resource group geometry
-00:03:52: Parsing script geom_background.material
-00:03:52: Parsing script geom_base.material
-00:03:52: Parsing script geom_lsec.material
-00:03:52: Parsing script geom_points.material
-00:03:52: Parsing script geom_triangle.material
-00:03:52: Finished parsing scripts for resource group geometry
-00:03:52: Parsing scripts for resource group graph
-00:03:52: Parsing script graph_objects.material
-00:03:52: Finished parsing scripts for resource group graph
-00:03:52: Parsing scripts for resource group image
-00:03:52: Finished parsing scripts for resource group image
-00:03:52: Parsing scripts for resource group scg
-00:03:52: Parsing script scg_arrows.material
-00:03:52: Parsing script scg_base.material
-00:03:52: Parsing script scg_content.material
-00:03:52: Parsing script scg_mpair.material
-00:03:52: Parsing script scg_nodes.material
-00:03:53: Parsing script scg_pair.material
-00:03:53: Parsing script scg_pair_const.material
-00:03:53: Parsing script scg_pair_const_orient.material
-00:03:53: Parsing script scg_pair_fuz_const.material
-00:03:53: Parsing script scg_pair_fuz_meta.material
-00:03:53: Parsing script scg_pair_fuz_time_const.material
-00:03:53: Parsing script scg_pair_fuz_time_meta.material
-00:03:53: Parsing script scg_pair_fuz_time_var.material
-00:03:53: Parsing script scg_pair_fuz_var.material
-00:03:53: Parsing script scg_pair_meta.material
-00:03:53: Parsing script scg_pair_meta_orient.material
-00:03:53: Parsing script scg_pair_neg_const.material
-00:03:53: Parsing script scg_pair_neg_meta.material
-00:03:53: Parsing script scg_pair_neg_time_const.material
-00:03:53: Parsing script scg_pair_neg_time_meta.material
-00:03:53: Parsing script scg_pair_neg_time_var.material
-00:03:53: Parsing script scg_pair_neg_var.material
-00:03:53: Parsing script scg_pair_pos_const.material
-00:03:53: Parsing script scg_pair_pos_meta.material
-00:03:53: Parsing script scg_pair_pos_time_const.material
-00:03:53: Parsing script scg_pair_pos_time_meta.material
-00:03:53: Parsing script scg_pair_pos_time_var.material
-00:03:53: Parsing script scg_pair_pos_var.material
-00:03:53: Parsing script scg_pair_var.material
-00:03:53: Parsing script scg_pair_var_orient.material
-00:03:53: Finished parsing scripts for resource group scg
-00:03:53: Parsing scripts for resource group space
-00:03:53: Parsing script backs.material
-00:03:53: Parsing script demo.material
-00:03:53: Parsing script space_base.material
-00:03:53: Parsing script stars.material
-00:03:53: Parsing script stars.particle
-00:03:54: Finished parsing scripts for resource group space
-00:03:54: Parsing scripts for resource group video
-00:03:54: Finished parsing scripts for resource group video
-00:03:54: Parsing scripts for resource group yandexmap
-00:03:54: Finished parsing scripts for resource group yandexmap
-00:03:54: Mesh: Loading scg_node_const.mesh.
-00:03:54: Mesh: Loading scg_struct_abstract_const.mesh.
-00:03:54: Mesh: Loading scg_cont_cube.mesh.
-00:03:54: Mesh: Loading scg_cont_unknown.mesh.
-00:03:54: Can't assign material Material to SubEntity of <suit.core.objects.ObjectSheet object at 0x04A4B630>_quest because this Material does not exist. Have you forgotten to define it in a .material script?
-00:03:54: Mesh: Loading scg_struct_struct.mesh.
-00:03:54: Mesh: Loading scg_line_seg.mesh.
-00:03:54: Texture: icon__48fb1003_p_sc_global_addr: Loading 1 faces(PF_A8R8G8B8,128x128x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
+01:05:11: Creating resource group General
+01:05:11: Creating resource group Internal
+01:05:11: Creating resource group Autodetect
+01:05:11: SceneManagerFactory for type 'DefaultSceneManager' registered.
+01:05:11: Registering ResourceManager for type Material
+01:05:11: Registering ResourceManager for type Mesh
+01:05:11: Registering ResourceManager for type Skeleton
+01:05:11: MovableObjectFactory for type 'ParticleSystem' registered.
+01:05:11: OverlayElementFactory for type Panel registered.
+01:05:11: OverlayElementFactory for type BorderPanel registered.
+01:05:11: OverlayElementFactory for type TextArea registered.
+01:05:11: Registering ResourceManager for type Font
+01:05:11: ArchiveFactory for archive type FileSystem registered.
+01:05:11: ArchiveFactory for archive type Zip registered.
+01:05:11: FreeImage version: 3.10.0
+01:05:11: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+01:05:11: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2
+01:05:11: DDS codec registering
+01:05:11: Registering ResourceManager for type HighLevelGpuProgram
+01:05:11: Registering ResourceManager for type Compositor
+01:05:11: MovableObjectFactory for type 'Entity' registered.
+01:05:11: MovableObjectFactory for type 'Light' registered.
+01:05:11: MovableObjectFactory for type 'BillboardSet' registered.
+01:05:11: MovableObjectFactory for type 'ManualObject' registered.
+01:05:11: MovableObjectFactory for type 'BillboardChain' registered.
+01:05:11: MovableObjectFactory for type 'RibbonTrail' registered.
+01:05:11: Loading library ./plugins\RenderSystem_GL.dll
+01:05:11: Installing plugin: GL RenderSystem
+01:05:11: OpenGL Rendering Subsystem created.
+01:05:11: Plugin successfully installed
+01:05:11: Loading library ./plugins\RenderSystem_Direct3D9.dll
+01:05:11: Installing plugin: D3D9 RenderSystem
+01:05:11: D3D9 : Direct3D9 Rendering Subsystem created.
+01:05:11: D3D9: Driver Detection Starts
+01:05:11: D3D9: Driver Detection Ends
+01:05:11: Plugin successfully installed
+01:05:11: Loading library ./plugins\Plugin_ParticleFX.dll
+01:05:11: Installing plugin: ParticleFX
+01:05:11: Particle Emitter Type 'Point' registered
+01:05:11: Particle Emitter Type 'Box' registered
+01:05:11: Particle Emitter Type 'Ellipsoid' registered
+01:05:11: Particle Emitter Type 'Cylinder' registered
+01:05:11: Particle Emitter Type 'Ring' registered
+01:05:11: Particle Emitter Type 'HollowEllipsoid' registered
+01:05:11: Particle Affector Type 'LinearForce' registered
+01:05:11: Particle Affector Type 'ColourFader' registered
+01:05:11: Particle Affector Type 'ColourFader2' registered
+01:05:11: Particle Affector Type 'ColourImage' registered
+01:05:11: Particle Affector Type 'ColourInterpolator' registered
+01:05:11: Particle Affector Type 'Scaler' registered
+01:05:11: Particle Affector Type 'Rotator' registered
+01:05:11: Particle Affector Type 'DirectionRandomiser' registered
+01:05:11: Particle Affector Type 'DeflectorPlane' registered
+01:05:11: Plugin successfully installed
+01:05:11: *-*-* OGRE Initialising
+01:05:11: *-*-* Version 1.6.1 (Shoggoth)
+01:05:11: D3D9 : RenderSystem Option: Allow NVPerfHUD = No
+01:05:11: D3D9 : RenderSystem Option: Anti aliasing = None
+01:05:11: D3D9 : RenderSystem Option: Floating-point mode = Fastest
+01:05:11: D3D9 : RenderSystem Option: Full Screen = No
+01:05:11: D3D9 : RenderSystem Option: Rendering Device = NVIDIA GeForce GTS 450
+01:05:11: D3D9 : RenderSystem Option: VSync = Yes
+01:05:11: D3D9 : RenderSystem Option: Video Mode = 1024 x 768 @ 32-bit colour
+01:05:11: D3D9 : RenderSystem Option: sRGB Gamma Conversion = No
+01:05:13: CPU Identifier & Features
+01:05:13: -------------------------
+01:05:13:  *   CPU ID: GenuineIntel: Intel(R) Core(TM) i7 CPU         870  @ 2.93GHz
+01:05:13:  *      SSE: yes
+01:05:13:  *     SSE2: yes
+01:05:13:  *     SSE3: yes
+01:05:13:  *      MMX: yes
+01:05:13:  *   MMXEXT: yes
+01:05:13:  *    3DNOW: no
+01:05:13:  * 3DNOWEXT: no
+01:05:13:  *     CMOV: yes
+01:05:13:  *      TSC: yes
+01:05:13:  *      FPU: yes
+01:05:13:  *      PRO: yes
+01:05:13:  *       HT: no
+01:05:13: -------------------------
+01:05:13: D3D9 : Subsystem Initialising
+01:05:13: D3D9RenderSystem::_createRenderWindow "Semantic User Interface Toolkit. Kernel version: 0.4.0", 1024x768 windowed  miscParams: FSAA=0 FSAAQuality=0 colourDepth=32 gamma=false useNVPerfHUD=false vsync=true 
+01:05:13: D3D9 : Created D3D9 Rendering Window 'Semantic User Interface Toolkit. Kernel version: 0.4.0' : 1024x768, 32bpp
+01:05:13: Registering ResourceManager for type Texture
+01:05:13: Registering ResourceManager for type GpuProgram
+01:05:13: D3D9: Vertex texture format supported - PF_A8R8G8B8
+01:05:13: D3D9: Vertex texture format supported - PF_B8G8R8A8
+01:05:13: D3D9: Vertex texture format supported - PF_FLOAT16_RGB
+01:05:13: D3D9: Vertex texture format supported - PF_FLOAT16_RGBA
+01:05:13: D3D9: Vertex texture format supported - PF_FLOAT32_RGB
+01:05:13: D3D9: Vertex texture format supported - PF_FLOAT32_RGBA
+01:05:13: D3D9: Vertex texture format supported - PF_R8G8B8A8
+01:05:13: D3D9: Vertex texture format supported - PF_DEPTH
+01:05:13: D3D9: Vertex texture format supported - PF_FLOAT16_R
+01:05:13: D3D9: Vertex texture format supported - PF_FLOAT32_R
+01:05:13: D3D9: Vertex texture format supported - PF_FLOAT16_GR
+01:05:13: D3D9: Vertex texture format supported - PF_FLOAT32_GR
+01:05:13: RenderSystem capabilities
+01:05:13: -------------------------
+01:05:13: RenderSystem Name: Direct3D9 Rendering Subsystem
+01:05:13: GPU Vendor: nvidia
+01:05:13: Device Name: NVIDIA GeForce GTS 450
+01:05:13: Driver Version: 8.17.12.9610
+01:05:13:  * Fixed function pipeline: yes
+01:05:13:  * Hardware generation of mipmaps: yes
+01:05:13:  * Texture blending: yes
+01:05:13:  * Anisotropic texture filtering: yes
+01:05:13:  * Dot product texture operation: yes
+01:05:13:  * Cube mapping: yes
+01:05:13:  * Hardware stencil buffer: yes
+01:05:13:    - Stencil depth: 8
+01:05:13:    - Two sided stencil support: yes
+01:05:13:    - Wrap stencil values: yes
+01:05:13:  * Hardware vertex / index buffers: yes
+01:05:13:  * Vertex programs: yes
+01:05:13:  * Fragment programs: yes
+01:05:13:  * Geometry programs: no
+01:05:13:  * Supported Shader Profiles: hlsl ps_1_1 ps_1_2 ps_1_3 ps_1_4 ps_2_0 ps_2_a ps_2_b ps_2_x ps_3_0 vs_1_1 vs_2_0 vs_2_a vs_2_x vs_3_0
+01:05:13:  * Texture Compression: yes
+01:05:13:    - DXT: yes
+01:05:13:    - VTC: no
+01:05:13:  * Scissor Rectangle: yes
+01:05:13:  * Hardware Occlusion Query: yes
+01:05:13:  * User clip planes: yes
+01:05:13:  * VET_UBYTE4 vertex element type: yes
+01:05:13:  * Infinite far plane projection: yes
+01:05:13:  * Hardware render-to-texture: yes
+01:05:13:  * Floating point textures: yes
+01:05:13:  * Non-power-of-two textures: yes
+01:05:13:  * Volume textures: yes
+01:05:13:  * Multiple Render Targets: 4
+01:05:13:    - With different bit depths: yes
+01:05:13:  * Point Sprites: yes
+01:05:13:  * Extended point parameters: yes
+01:05:13:  * Max Point Size: 8192
+01:05:13:  * Vertex texture fetch: yes
+01:05:13:    - Max vertex textures: 4
+01:05:13:    - Vertex textures shared: no
+01:05:13:  * Render to Vertex Buffer : no
+01:05:13:  * DirectX per stage constants: yes
+01:05:13: ***************************************
+01:05:13: *** D3D9 : Subsystem Initialised OK ***
+01:05:13: ***************************************
+01:05:13: ResourceBackgroundQueue - threading disabled
+01:05:13: Particle Renderer Type 'billboard' registered
+01:05:13: Added resource location './media/mygui' of type 'FileSystem' to resource group 'General'
+01:05:13: Added resource location './media/backs' of type 'FileSystem' to resource group 'General'
+01:05:13: Creating resource group chemistry
+01:05:13: Added resource location './media/chemistry/meshes' of type 'FileSystem' to resource group 'chemistry'
+01:05:13: Added resource location './media/chemistry/materials/programs' of type 'FileSystem' to resource group 'chemistry'
+01:05:13: Added resource location './media/chemistry/materials/scripts' of type 'FileSystem' to resource group 'chemistry'
+01:05:13: Added resource location './media/chemistry/materials/textures' of type 'FileSystem' to resource group 'chemistry'
+01:05:13: Creating resource group geometry
+01:05:13: Added resource location './media/geometry/base_media.zip' of type 'Zip' to resource group 'geometry'
+01:05:13: Creating resource group graph
+01:05:13: Added resource location './media/graph/meshes' of type 'FileSystem' to resource group 'graph'
+01:05:13: Added resource location './media/graph/materials/scripts' of type 'FileSystem' to resource group 'graph'
+01:05:13: Creating resource group scg
+01:05:13: Added resource location './media/scg/base_media.zip' of type 'Zip' to resource group 'scg'
+01:05:13: Creating resource group space
+01:05:13: Added resource location './media/space/meshes' of type 'FileSystem' to resource group 'space'
+01:05:13: Added resource location './media/space/materials/scripts' of type 'FileSystem' to resource group 'space'
+01:05:13: Added resource location './media/space/materials/textures' of type 'FileSystem' to resource group 'space'
+01:05:13: Initialising resource group General
+01:05:13: Parsing scripts for resource group General
+01:05:13: Parsing script backs.material
+01:05:13: Finished parsing scripts for resource group General
+01:05:13: Texture: scifi_skin.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
+01:05:13: Texture: core_pointer.png: Loading 1 faces(PF_A8R8G8B8,256x128x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x128x1.
+01:05:13: Texture: Default_Texture: Loading 1 faces(PF_BYTE_LA,1024x128x1) with 0 generated mipmaps from Image. Internal format is PF_BYTE_LA,1024x128x1.
+01:05:13: Texture: image__88ce2806_p_sc_global_addr: Loading 1 faces(PF_A8R8G8B8,128x128x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
+01:05:13: Added resource location 'E:\ostis\ymapostis\system\components\scg\base\media\code' of type 'FileSystem' to resource group 'scg'
+01:05:13: Added resource location 'E:\ostis\ymapostis\system\components\scg\base\media\textures' of type 'FileSystem' to resource group 'scg'
+01:05:13: Added resource location 'E:\ostis\ymapostis\system\components\scg\base\media\materials' of type 'FileSystem' to resource group 'scg'
+01:05:13: Added resource location 'E:\ostis\ymapostis\system\components\scg\base\media\vis_menu' of type 'FileSystem' to resource group 'General'
+01:05:13: Creating resource group image
+01:05:13: Added resource location 'E:\ostis\ymapostis\system\components\image\media\tmp' of type 'FileSystem' to resource group 'image'
+01:05:13: Added resource location 'E:\ostis\ymapostis\system\components\space\media\meshes' of type 'FileSystem' to resource group 'space'
+01:05:13: Added resource location 'E:\ostis\ymapostis\system\components\space\media\materials' of type 'FileSystem' to resource group 'space'
+01:05:13: Added resource location 'E:\ostis\ymapostis\system\components\space\media\materials\scripts' of type 'FileSystem' to resource group 'space'
+01:05:13: Added resource location 'E:\ostis\ymapostis\system\components\space\media\materials\textures' of type 'FileSystem' to resource group 'space'
+01:05:13: Added resource location 'E:\ostis\ymapostis\system\components\space\media\gui' of type 'FileSystem' to resource group 'General'
+01:05:13: Creating resource group video
+01:05:13: Added resource location '_cache\video' of type 'FileSystem' to resource group 'video'
+01:05:13: Creating resource group yandexmap
+01:05:13: Added resource location 'E:\ostis\ymapostis\system\components\yandexmaps\media\tmp' of type 'FileSystem' to resource group 'yandexmap'
+01:05:13: Parsing scripts for resource group Autodetect
+01:05:13: Finished parsing scripts for resource group Autodetect
+01:05:13: Parsing scripts for resource group Internal
+01:05:13: Finished parsing scripts for resource group Internal
+01:05:13: Parsing scripts for resource group chemistry
+01:05:13: Parsing script chem_atoms.material
+01:05:13: Parsing script chem_base.material
+01:05:13: Parsing script chem_link.material
+01:05:13: Finished parsing scripts for resource group chemistry
+01:05:13: Parsing scripts for resource group geometry
+01:05:13: Parsing script geom_background.material
+01:05:14: Parsing script geom_base.material
+01:05:14: Parsing script geom_lsec.material
+01:05:14: Parsing script geom_points.material
+01:05:14: Parsing script geom_triangle.material
+01:05:14: Finished parsing scripts for resource group geometry
+01:05:14: Parsing scripts for resource group graph
+01:05:14: Parsing script graph_objects.material
+01:05:14: Finished parsing scripts for resource group graph
+01:05:14: Parsing scripts for resource group image
+01:05:14: Finished parsing scripts for resource group image
+01:05:14: Parsing scripts for resource group scg
+01:05:14: Parsing script scg_arrows.material
+01:05:14: Parsing script scg_base.material
+01:05:14: Parsing script scg_content.material
+01:05:14: Parsing script scg_mpair.material
+01:05:14: Parsing script scg_nodes.material
+01:05:14: Parsing script scg_pair.material
+01:05:14: Parsing script scg_pair_const.material
+01:05:14: Parsing script scg_pair_const_orient.material
+01:05:14: Parsing script scg_pair_fuz_const.material
+01:05:14: Parsing script scg_pair_fuz_meta.material
+01:05:14: Parsing script scg_pair_fuz_time_const.material
+01:05:14: Parsing script scg_pair_fuz_time_meta.material
+01:05:14: Parsing script scg_pair_fuz_time_var.material
+01:05:14: Parsing script scg_pair_fuz_var.material
+01:05:14: Parsing script scg_pair_meta.material
+01:05:14: Parsing script scg_pair_meta_orient.material
+01:05:14: Parsing script scg_pair_neg_const.material
+01:05:14: Parsing script scg_pair_neg_meta.material
+01:05:14: Parsing script scg_pair_neg_time_const.material
+01:05:14: Parsing script scg_pair_neg_time_meta.material
+01:05:14: Parsing script scg_pair_neg_time_var.material
+01:05:14: Parsing script scg_pair_neg_var.material
+01:05:14: Parsing script scg_pair_pos_const.material
+01:05:14: Parsing script scg_pair_pos_meta.material
+01:05:15: Parsing script scg_pair_pos_time_const.material
+01:05:15: Parsing script scg_pair_pos_time_meta.material
+01:05:15: Parsing script scg_pair_pos_time_var.material
+01:05:15: Parsing script scg_pair_pos_var.material
+01:05:15: Parsing script scg_pair_var.material
+01:05:15: Parsing script scg_pair_var_orient.material
+01:05:15: Finished parsing scripts for resource group scg
+01:05:15: Parsing scripts for resource group space
+01:05:15: Parsing script backs.material
+01:05:15: Parsing script demo.material
+01:05:15: Parsing script space_base.material
+01:05:15: Parsing script stars.material
+01:05:15: Parsing script stars.particle
+01:05:15: Finished parsing scripts for resource group space
+01:05:15: Parsing scripts for resource group video
+01:05:15: Finished parsing scripts for resource group video
+01:05:15: Parsing scripts for resource group yandexmap
+01:05:15: Finished parsing scripts for resource group yandexmap
+01:05:15: Mesh: Loading scg_node_const.mesh.
+01:05:15: Mesh: Loading scg_struct_abstract_const.mesh.
+01:05:15: Mesh: Loading scg_cont_cube.mesh.
+01:05:15: Mesh: Loading scg_cont_unknown.mesh.
+01:05:15: Can't assign material Material to SubEntity of <suit.core.objects.ObjectSheet object at 0x06EE09C0>_quest because this Material does not exist. Have you forgotten to define it in a .material script?
+01:05:15: Mesh: Loading scg_struct_struct.mesh.
+01:05:15: Mesh: Loading scg_line_seg.mesh.
+01:05:15: Texture: icon__70d72806_p_sc_global_addr: Loading 1 faces(PF_A8R8G8B8,128x128x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
+01:05:24: Texture: Identifier_Texture: Loading 1 faces(PF_BYTE_LA,1024x128x1) with 0 generated mipmaps from Image. Internal format is PF_BYTE_LA,1024x128x1.
+01:05:32: Can't assign material Material to SubEntity of <suit.core.objects.ObjectSheet object at 0x11C495A0>_quest because this Material does not exist. Have you forgotten to define it in a .material script?
+01:05:47: Texture: image__d8ce2806_p_sc_global_addr: Loading 1 faces(PF_A8R8G8B8,32x32x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+01:05:47: Texture: image__b0ce2806_p_sc_global_addr: Loading 1 faces(PF_A8R8G8B8,128x128x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
+01:05:58: Texture: spaces_background.jpg: Loading 1 faces(PF_R8G8B8,1280x1024x1) with 10 generated mipmaps from Image. Internal format is PF_X8R8G8B8,1280x1024x1.

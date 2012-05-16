@@ -1,14 +1,1 @@
-2012-02-12 21:53:27,088 SCNML2SC INFO Start processing ...
-2012-02-12 21:53:35,459 SCNML2SC INFO --------------------Begin--------------------
-2012-02-12 21:53:35,463 SCNML2SC INFO parsing article:Геометрия:Акс.(пара точек; между; геометрическая точка)
-2012-02-12 21:53:36,828 SCNML2SC INFO ../fs_repo_src\seb/planimetry_src/0.scsy
-2012-02-12 21:53:36,911 SCNML2SC ERROR Syntax error in article Геометрия:Акс.(пара точек; между; геометрическая точка):
-2012-02-12 21:53:36,927 SCNML2SC ERROR Invalid line №: 7
-2012-02-12 21:53:36,930 SCNML2SC ERROR Line:
-2012-02-12 21:53:36,931 SCNML2SC ERROR {{SCnLStatement|1|{{SCnLUniversal|2|{{SCnLVar|_tk}}, {{SCnLVar|_tp}}}} {{SCnLConnective}}
-2012-02-12 21:53:36,948 SCNML2SC ERROR ^
-2012-02-12 21:53:36,950 SCNML2SC INFO ---------------------End---------------------
-2012-02-12 21:53:36,959 SCNML2SC INFO --------------------Begin--------------------
-2012-02-12 21:53:36,967 SCNML2SC INFO parsing article:Геометрия:Акс.(плоскость; геометрическая точка; прямая)
-2012-02-12 21:53:38,252 SCNML2SC INFO load images for article: Геометрия:Акс.(плоскость; геометрическая точка; прямая)
-2012-02-12 21:53:38,266 SCNML2SC INFO load image: Файл:Aks ploskost geom tochka peresechenie prjam.png
+2012-05-16 14:52:01,302 SCNML2SC INFO Start processing ...

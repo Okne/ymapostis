@@ -38,11 +38,18 @@ import sc_core.pm as sc
 import sc_core.constants as sc_constants
 import suit.core.keynodes as keynodes
 import suit.core.sc_utils as sc_utils
+import suit.core.keynodes as sc_keys
 #import scg_alphabet
 #import scg_objects
 import suit.core.exceptions as exceptions
+
+#get current session
+session = core.Kernel.session()
+
+#get all translated questions nodes
+sc_show_map_question_set = session.find_el_full_uri(u"/etc/questions/показать карту")
     
-class TranslatorSc2Ym(Translator):
+class ScToYMapsMLTranslator(Translator):
     """Class that implements translation from SC-code directly to yandex.maps
     """    
     def __init__(self):
@@ -61,7 +68,32 @@ class TranslatorSc2Ym(Translator):
         @return: list of errors each element of list is a tuple(object, error)
         @rtype: list
         """
+        #look for question node
+        els = session.search11_f_a_a_a_a_a_f_a_f_a_f(_input, 
+                                            sc.SC_A_CONST|sc.SC_POS, sc.SC_N_CONST,
+                                            sc.SC_A_CONST|sc.SC_POS, sc.SC_N_CONST,
+                                            sc.SC_A_CONST|sc.SC_POS, sc_keys.n_2,
+                                            sc.SC_A_CONST|sc.SC_POS, sc_keys.n_1,
+                                            sc.SC_A_CONST|sc.SC_POS, sc_keys.info.stype_sheaf)
+        el = sc_utils.searchOneShot(els)
+        assert el is not None
+        
+        #get question node
+        question_node = el[4]
+        
+        #check if answer on question can be translated
+        if sc_utils.checkIncToSets(session, question_node, [sc_show_map_question_set], sc.SC_POS | sc.SC_CONST):
+            print "Show map question, translating answer"
+            #parse sc-construction
+            fin = open(env.testScript)
+            test_data = fin.read()
+            fin.close()
+            #set returned script to _output node content
+            session.set_content_str(_output, test_data)
+            
+                
         errors = []
+        print "sc2yandexmaps finish translation"
         
         return errors
        

@@ -50,6 +50,7 @@ class YandexMapsViewer(BaseModeLogic):
         
         # texture object 
         self.texture = None
+        self.script = None
         self.imageName = None
         self.sceneNodeRect = render_engine.SceneManager.createSceneNode()
         
@@ -70,6 +71,7 @@ class YandexMapsViewer(BaseModeLogic):
         
         if self.material is not None:   self._destroyMaterial()
         if self.texture is not None:    self._destroyTexture()
+        if self.script is not None: self.script = None
         
         self._destroyRect()
         
@@ -102,6 +104,7 @@ class YandexMapsViewer(BaseModeLogic):
         assert _cont is not None
         
         _cont_data = _cont.convertToCont()
+        self.script = _cont_data
         
         _type = session.get_idtf(_fmt).lower()
         global count
@@ -114,7 +117,7 @@ class YandexMapsViewer(BaseModeLogic):
         
 #        file(self.imageName + "_", "wb").write(_cont.get_data(_cont_data.d.size))
         
-        data = _cont.get_data(_cont_data.d.size)
+        """data = _cont.get_data(_cont_data.d.size)
         stream = ogre.MemoryDataStream("%s" % str(self), _cont_data.d.size, False)
         stream.setData(data)
 #     
@@ -132,7 +135,7 @@ class YandexMapsViewer(BaseModeLogic):
 #        
 #        
 #        _image = self._createImageFromData(pm.pm.castChar_p(_cont_data.d.ptr), _cont_data.d.size, _type)
-#        print _image
+#        print _image"""
                 
     def _onRoot(self, _isRoot):
         """Notification on sheet root state changing
@@ -141,17 +144,29 @@ class YandexMapsViewer(BaseModeLogic):
             render_engine.SceneNode.addChild(self._getSheet().sceneNodeChilds, self.sceneNodeRect)
             render_engine.SceneManager.setBackMaterial("Back/Spaces")
             
-            #stub: browser is called to show yandex map with default data
+            # get data from sheet node content
             
-            #TODO: translate data from on sheet and get address of geo-object
-            #address = translator.translate(self._getSheet())
+            # trying to get data for showing
+            import suit.core.sc_utils as sc_utils
+            session = core.Kernel.session()
+            _addr = self._getSheet()._getScAddr()   
+            _fmt = sc_utils.getContentFormat(session, _addr)     
+  
+            assert _fmt is not None
+        
+            _cont = session.get_content_const(_addr)
+            assert _cont is not None
+        
+            _cont_data = _cont.convertToCont()
+            self.script = str(_cont_data.d.ptr)
 
+            data = self.script.decode('cp1251')
             #TODO: get coordinates of object from yandex.map geocoder
             #coords = yandex_api.geocode(api_key, address)
-            coords = (u'60.603826', u'56.854581')           
+            #coords = (u'60.603826', u'56.854581')           
             
-            url = yandex_api.get_map_url(env.api_key, coords[0], coords[1], 5, 200, 300)
-            dataToPaste = {'address': "test_address", 'api_key': env.api_key, 'longitude': coords[0], 'latitude': coords[1], 'detail': 15}
+            #url = yandex_api.get_map_url(env.api_key, coords[0], coords[1], 5, 200, 300)
+            dataToPaste = {'title': "Test", 'api_key': env.api_key, 'script': data}
             
             #get template
             template = self._fileToStr()
@@ -268,10 +283,10 @@ class YandexMapsViewer(BaseModeLogic):
         fin = open(env.templateName); 
         contents = fin.read();  
         fin.close() 
-        return contents
+        return unicode(contents, 'utf-8')
     
     def _strToFile(self, text):  
         """Write a file with the given name and the given text."""
         output = open(env.mapFileName,"w")
-        output.write(text)
+        output.write(text.encode('utf-8'))
         output.close()

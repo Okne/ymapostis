@@ -40,6 +40,7 @@ resource_dirs       =   [res_tmp_dir]
 
 templateName = os.path.join(os.path.dirname(__file__), "template.html")
 mapFileName = os.path.join(os.path.dirname(__file__), "map.html")
+testScript = os.path.join(os.path.dirname(__file__), "script.js")
 
 #api_key = "AJ-8lk8BAAAA-XpFDwQAoJN8eB59A0iz1F1M1tRGnzO-7H0AAAAAAAAAAABMVbn1rJgaBBtgmNsMsBM0CTAf7A=="
 
