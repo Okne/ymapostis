@@ -1,0 +1,18 @@
+ymaps.ready(init);
+
+        function init () {
+            var myMap = new ymaps.Map("map", {
+                    center: [55.76, 37.64],
+                    zoom: 10
+                });
+
+            myMap.balloon.open(
+                // Позиция балуна
+                [55.76, 37.64], {
+                    // Свойства балуна
+                    contentBody: 'Москва'
+                }, {
+                    // Опции балуна. В данном примере указываем, что балун не должен иметь кнопку закрытия.
+                    closeButton: false
+                });
+        }
