@@ -49,11 +49,15 @@ inc:> beg "include/_keynodes.scsy" <- "ordinal.scsy"
 gwfkey:> "etc/com_keynodes_src/com_keynodes.gwf" -> "include/_keynodes.scsy" "/etc/com_keynodes"
 gwfkey:> "etc/questions_src/questions_keynodes.gwf" -> "include/_keynodes.scsy" "/etc/questions"
 gwfkey:> "ui/core_src/ui_keynodes.gwf" -> "include/_keynodes.scsy" "/ui/core"
+gwfkey:> "seb/geodata_src/_keynodes.gwf" -> "include/_keynodes.scsy" "/seb/geodata"
 #gwfkey:> "seb/space_src/_keynodes.gwf" -> "include/_keynodes.scsy" "/seb/space"
 #gwfkey:> "seb/chemistry_src/_keynodes.gwf" -> "include/_keynodes.scsy" "/seb/chemistry"
 
 # test
 scg:> "seb/test" -> "seb/test"
+
+# geodata
+scg:> "seb/geodata" -> "seb/geodata"
 
 # demo
 scg:> "seb/demo" -> "seb/demo"

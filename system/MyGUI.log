@@ -1,83 +1,83 @@
  ---------------------------------------------------------------------------------------------------------------------------------- 
-                                          loging report for : 05/17/2012   01:05:13
+                                          loging report for : 05/28/2012   01:48:39
  ---------------------------------------------------------------------------------------------------------------------------------- 
 
-01:05:13  |  General  |  Info  |  * Initialise: Gui  |  .\src\MyGUI_Gui.cpp  |  54
-01:05:13  |  General  |  Info  |  * MyGUI version 2.2.2  |  .\src\MyGUI_Gui.cpp  |  58
-01:05:13  |  General  |  Info  |  Viewport : 1024 768  |  .\src\MyGUI_Gui.cpp  |  68
-01:05:13  |  General  |  Info  |  * Initialise: ResourceManager  |  .\src\MyGUI_ResourceManager.cpp  |  41
-01:05:13  |  General  |  Info  |  ResourceManager successfully initialized  |  .\src\MyGUI_ResourceManager.cpp  |  53
-01:05:13  |  General  |  Info  |  * Initialise: LayerManager  |  .\src\MyGUI_LayerManager.cpp  |  41
-01:05:13  |  General  |  Info  |  LayerManager successfully initialized  |  .\src\MyGUI_LayerManager.cpp  |  73
-01:05:13  |  General  |  Info  |  * Initialise: WidgetManager  |  .\src\MyGUI_WidgetManager.cpp  |  62
-01:05:13  |  General  |  Info  |  * Register widget factory 'Widget'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'Button'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'Window'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'List'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'HScroll'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'VScroll'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'Edit'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'ComboBox'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'StaticText'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'Tab'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'TabItem'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'TabItem'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'Sheet'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'Progress'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'ItemBox'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'MultiList'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'StaticImage'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'Message'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'RenderBox'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'MenuCtrl'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'MenuItem'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'PopupMenu'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'MenuBar'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'ScrollView'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'DDContainer'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  * Register widget factory 'Canvas'  |  .\src\MyGUI_WidgetManager.cpp  |  118
-01:05:13  |  General  |  Info  |  WidgetManager successfully initialized  |  .\src\MyGUI_WidgetManager.cpp  |  93
-01:05:13  |  General  |  Info  |  * Initialise: InputManager  |  .\src\MyGUI_InputManager.cpp  |  51
-01:05:13  |  General  |  Info  |  InputManager successfully initialized  |  .\src\MyGUI_InputManager.cpp  |  74
-01:05:13  |  General  |  Info  |  * Initialise: SubWidgetManager  |  .\src\MyGUI_SubWidgetManager.cpp  |  33
-01:05:13  |  General  |  Info  |  SubWidgetManager successfully initialized  |  .\src\MyGUI_SubWidgetManager.cpp  |  49
-01:05:13  |  General  |  Info  |  * Initialise: SkinManager  |  .\src\MyGUI_SkinManager.cpp  |  40
-01:05:13  |  General  |  Info  |  SkinManager successfully initialized  |  .\src\MyGUI_SkinManager.cpp  |  46
-01:05:13  |  General  |  Info  |  * Initialise: FontManager  |  .\src\MyGUI_FontManager.cpp  |  43
-01:05:13  |  General  |  Info  |  FontManager successfully initialized  |  .\src\MyGUI_FontManager.cpp  |  47
-01:05:13  |  General  |  Info  |  * Initialise: ControllerManager  |  .\src\MyGUI_ControllerManager.cpp  |  36
-01:05:13  |  General  |  Info  |  ControllerManager successfully initialized  |  .\src\MyGUI_ControllerManager.cpp  |  40
-01:05:13  |  General  |  Info  |  * Initialise: PointerManager  |  .\src\MyGUI_PointerManager.cpp  |  41
-01:05:13  |  General  |  Info  |  PointerManager successfully initialized  |  .\src\MyGUI_PointerManager.cpp  |  50
-01:05:13  |  General  |  Info  |  * Initialise: ClipboardManager  |  .\src\MyGUI_ClipboardManager.cpp  |  35
-01:05:13  |  General  |  Info  |  ClipboardManager successfully initialized  |  .\src\MyGUI_ClipboardManager.cpp  |  44
-01:05:13  |  General  |  Info  |  * Initialise: LayoutManager  |  .\src\MyGUI_LayoutManager.cpp  |  41
-01:05:13  |  General  |  Info  |  LayoutManager successfully initialized  |  .\src\MyGUI_LayoutManager.cpp  |  47
-01:05:13  |  General  |  Info  |  * Initialise: DynLibManager  |  .\src\MyGUI_DynLibManager.cpp  |  34
-01:05:13  |  General  |  Info  |  DynLibManager successfully initialized  |  .\src\MyGUI_DynLibManager.cpp  |  36
-01:05:13  |  General  |  Info  |  * Initialise: PluginManager  |  .\src\MyGUI_PluginManager.cpp  |  36
-01:05:13  |  General  |  Info  |  PluginManager successfully initialized  |  .\src\MyGUI_PluginManager.cpp  |  40
-01:05:13  |  General  |  Info  |  * Initialise: LanguageManager  |  .\src\MyGUI_LanguageManager.cpp  |  37
-01:05:13  |  General  |  Info  |  LanguageManager successfully initialized  |  .\src\MyGUI_LanguageManager.cpp  |  44
-01:05:13  |  General  |  Info  |  Load ini file 'core_keyboard.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
-01:05:13  |  General  |  Info  |  Load ini file 'core_language.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
-01:05:13  |  General  |  Info  |  Load ini file 'core_layer.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
-01:05:13  |  General  |  Info  |  Load ini file 'theme_scifi_font.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
-01:05:13  |  General  |  Info  |  Load ini file 'theme_scifi.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
-01:05:13  |  General  |  Info  |  Load ini file 'core_resource.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
-01:05:13  |  General  |  Info  |  Load ini file 'core_menu_resource.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
-01:05:13  |  General  |  Error  |  ResourceManager : 'core_menu_resource.xml', 'Failed to open XML file' ,  file='core_menu_resource.xml' ,  line=0 ,  col=0  |  .\src\MyGUI_ResourceManager.cpp  |  204
-01:05:13  |  General  |  Info  |  Load ini file 'emul_resource.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
-01:05:13  |  General  |  Info  |  Load ini file 'scifi_skin.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
-01:05:13  |  General  |  Info  |  Load ini file 'core_pointer.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
-01:05:13  |  General  |  Info  |  Gui successfully initialized  |  .\src\MyGUI_Gui.cpp  |  112
-01:05:13  |  General  |  Info  |  Font 'Default' using texture size 1024 x 128  |  .\src\MyGUI_Font.cpp  |  205
-01:05:13  |  General  |  Info  |  Font 'Default' using real height 18 pixels  |  .\src\MyGUI_Font.cpp  |  206
-01:05:13  |  General  |  Error  |  ResourceManager : 'visual_menu_resources.xml', 'Failed to open XML file' ,  file='visual_menu_resources.xml' ,  line=0 ,  col=0  |  .\src\MyGUI_ResourceManager.cpp  |  204
-01:05:13  |  General  |  Warning  |  Skin 'Window' not found, set Default  |  .\src\MyGUI_SkinManager.cpp  |  73
-01:05:13  |  General  |  Warning  |  Skin 'ScrollButton_Left' not found, set Default  |  .\src\MyGUI_SkinManager.cpp  |  73
-01:05:13  |  General  |  Warning  |  Skin 'ScrollButton_Right' not found, set Default  |  .\src\MyGUI_SkinManager.cpp  |  73
-01:05:13  |  General  |  Warning  |  Skin 'ButtonMinusPlus' not found, set Default  |  .\src\MyGUI_SkinManager.cpp  |  73
-01:05:13  |  General  |  Warning  |  Skin 'ButtonMinusPlus' not found, set Default  |  .\src\MyGUI_SkinManager.cpp  |  73
-01:05:24  |  General  |  Info  |  Font 'Identifier' using texture size 1024 x 128  |  .\src\MyGUI_Font.cpp  |  205
-01:05:24  |  General  |  Info  |  Font 'Identifier' using real height 26 pixels  |  .\src\MyGUI_Font.cpp  |  206
+01:48:39  |  General  |  Info  |  * Initialise: Gui  |  .\src\MyGUI_Gui.cpp  |  54
+01:48:39  |  General  |  Info  |  * MyGUI version 2.2.2  |  .\src\MyGUI_Gui.cpp  |  58
+01:48:39  |  General  |  Info  |  Viewport : 1024 768  |  .\src\MyGUI_Gui.cpp  |  68
+01:48:39  |  General  |  Info  |  * Initialise: ResourceManager  |  .\src\MyGUI_ResourceManager.cpp  |  41
+01:48:39  |  General  |  Info  |  ResourceManager successfully initialized  |  .\src\MyGUI_ResourceManager.cpp  |  53
+01:48:39  |  General  |  Info  |  * Initialise: LayerManager  |  .\src\MyGUI_LayerManager.cpp  |  41
+01:48:39  |  General  |  Info  |  LayerManager successfully initialized  |  .\src\MyGUI_LayerManager.cpp  |  73
+01:48:39  |  General  |  Info  |  * Initialise: WidgetManager  |  .\src\MyGUI_WidgetManager.cpp  |  62
+01:48:39  |  General  |  Info  |  * Register widget factory 'Widget'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'Button'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'Window'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'List'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'HScroll'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'VScroll'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'Edit'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'ComboBox'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'StaticText'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'Tab'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'TabItem'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'TabItem'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'Sheet'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'Progress'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'ItemBox'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'MultiList'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'StaticImage'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'Message'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'RenderBox'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'MenuCtrl'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'MenuItem'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'PopupMenu'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'MenuBar'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'ScrollView'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'DDContainer'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  * Register widget factory 'Canvas'  |  .\src\MyGUI_WidgetManager.cpp  |  118
+01:48:39  |  General  |  Info  |  WidgetManager successfully initialized  |  .\src\MyGUI_WidgetManager.cpp  |  93
+01:48:39  |  General  |  Info  |  * Initialise: InputManager  |  .\src\MyGUI_InputManager.cpp  |  51
+01:48:39  |  General  |  Info  |  InputManager successfully initialized  |  .\src\MyGUI_InputManager.cpp  |  74
+01:48:39  |  General  |  Info  |  * Initialise: SubWidgetManager  |  .\src\MyGUI_SubWidgetManager.cpp  |  33
+01:48:39  |  General  |  Info  |  SubWidgetManager successfully initialized  |  .\src\MyGUI_SubWidgetManager.cpp  |  49
+01:48:39  |  General  |  Info  |  * Initialise: SkinManager  |  .\src\MyGUI_SkinManager.cpp  |  40
+01:48:39  |  General  |  Info  |  SkinManager successfully initialized  |  .\src\MyGUI_SkinManager.cpp  |  46
+01:48:39  |  General  |  Info  |  * Initialise: FontManager  |  .\src\MyGUI_FontManager.cpp  |  43
+01:48:39  |  General  |  Info  |  FontManager successfully initialized  |  .\src\MyGUI_FontManager.cpp  |  47
+01:48:39  |  General  |  Info  |  * Initialise: ControllerManager  |  .\src\MyGUI_ControllerManager.cpp  |  36
+01:48:39  |  General  |  Info  |  ControllerManager successfully initialized  |  .\src\MyGUI_ControllerManager.cpp  |  40
+01:48:39  |  General  |  Info  |  * Initialise: PointerManager  |  .\src\MyGUI_PointerManager.cpp  |  41
+01:48:39  |  General  |  Info  |  PointerManager successfully initialized  |  .\src\MyGUI_PointerManager.cpp  |  50
+01:48:39  |  General  |  Info  |  * Initialise: ClipboardManager  |  .\src\MyGUI_ClipboardManager.cpp  |  35
+01:48:39  |  General  |  Info  |  ClipboardManager successfully initialized  |  .\src\MyGUI_ClipboardManager.cpp  |  44
+01:48:39  |  General  |  Info  |  * Initialise: LayoutManager  |  .\src\MyGUI_LayoutManager.cpp  |  41
+01:48:39  |  General  |  Info  |  LayoutManager successfully initialized  |  .\src\MyGUI_LayoutManager.cpp  |  47
+01:48:39  |  General  |  Info  |  * Initialise: DynLibManager  |  .\src\MyGUI_DynLibManager.cpp  |  34
+01:48:39  |  General  |  Info  |  DynLibManager successfully initialized  |  .\src\MyGUI_DynLibManager.cpp  |  36
+01:48:39  |  General  |  Info  |  * Initialise: PluginManager  |  .\src\MyGUI_PluginManager.cpp  |  36
+01:48:39  |  General  |  Info  |  PluginManager successfully initialized  |  .\src\MyGUI_PluginManager.cpp  |  40
+01:48:39  |  General  |  Info  |  * Initialise: LanguageManager  |  .\src\MyGUI_LanguageManager.cpp  |  37
+01:48:39  |  General  |  Info  |  LanguageManager successfully initialized  |  .\src\MyGUI_LanguageManager.cpp  |  44
+01:48:39  |  General  |  Info  |  Load ini file 'core_keyboard.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
+01:48:39  |  General  |  Info  |  Load ini file 'core_language.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
+01:48:39  |  General  |  Info  |  Load ini file 'core_layer.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
+01:48:39  |  General  |  Info  |  Load ini file 'theme_scifi_font.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
+01:48:39  |  General  |  Info  |  Load ini file 'theme_scifi.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
+01:48:39  |  General  |  Info  |  Load ini file 'core_resource.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
+01:48:39  |  General  |  Info  |  Load ini file 'core_menu_resource.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
+01:48:39  |  General  |  Error  |  ResourceManager : 'core_menu_resource.xml', 'Failed to open XML file' ,  file='core_menu_resource.xml' ,  line=0 ,  col=0  |  .\src\MyGUI_ResourceManager.cpp  |  204
+01:48:39  |  General  |  Info  |  Load ini file 'emul_resource.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
+01:48:39  |  General  |  Info  |  Load ini file 'scifi_skin.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
+01:48:39  |  General  |  Info  |  Load ini file 'core_pointer.xml' from resource group : General  |  .\src\MyGUI_ResourceManager.cpp  |  171
+01:48:39  |  General  |  Info  |  Gui successfully initialized  |  .\src\MyGUI_Gui.cpp  |  112
+01:48:39  |  General  |  Info  |  Font 'Default' using texture size 1024 x 128  |  .\src\MyGUI_Font.cpp  |  205
+01:48:39  |  General  |  Info  |  Font 'Default' using real height 18 pixels  |  .\src\MyGUI_Font.cpp  |  206
+01:48:39  |  General  |  Error  |  ResourceManager : 'visual_menu_resources.xml', 'Failed to open XML file' ,  file='visual_menu_resources.xml' ,  line=0 ,  col=0  |  .\src\MyGUI_ResourceManager.cpp  |  204
+01:48:39  |  General  |  Warning  |  Skin 'Window' not found, set Default  |  .\src\MyGUI_SkinManager.cpp  |  73
+01:48:39  |  General  |  Warning  |  Skin 'ScrollButton_Left' not found, set Default  |  .\src\MyGUI_SkinManager.cpp  |  73
+01:48:39  |  General  |  Warning  |  Skin 'ScrollButton_Right' not found, set Default  |  .\src\MyGUI_SkinManager.cpp  |  73
+01:48:39  |  General  |  Warning  |  Skin 'ButtonMinusPlus' not found, set Default  |  .\src\MyGUI_SkinManager.cpp  |  73
+01:48:39  |  General  |  Warning  |  Skin 'ButtonMinusPlus' not found, set Default  |  .\src\MyGUI_SkinManager.cpp  |  73
+01:48:43  |  General  |  Info  |  Font 'Identifier' using texture size 1024 x 128  |  .\src\MyGUI_Font.cpp  |  205
+01:48:43  |  General  |  Info  |  Font 'Identifier' using real height 26 pixels  |  .\src\MyGUI_Font.cpp  |  206

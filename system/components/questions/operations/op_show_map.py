@@ -24,6 +24,8 @@ ui_segment = session.open_segment(system_env.URI_ui_core)
 sc_main_question = session.find_el_full_uri(u"/etc/questions/показать карту")
 sc_operation_node = session.find_el_full_uri(u"/etc/operations/операция отображения карты")
 sc_test_node = session.find_el_full_uri(u"/seb/test/test_geo_data")
+sc_test_res_1 = session.find_el_full_uri(u"/seb/test/test_res_1")
+
 arg_set_node = ui.arg_set
 ymapsml_fmt_node = ui.format_ymapsml
  
@@ -51,13 +53,22 @@ class Op_show_map(operation.Operation):
         print "runing: Show map operation"
         
         res = []
-        targets = session.search3_f_a_a(question, sc.SC_A_CONST|sc.SC_POS, sc.SC_CONST|sc.SC_NODE)        
+        """targets = session.search3_f_a_a(question, sc.SC_A_CONST|sc.SC_POS, sc.SC_CONST|sc.SC_NODE)        
         # перебираем найденые элементы
         for target in targets:
             els = session.search3_f_a_a(target[2], sc.SC_A_CONST|sc.SC_POS, sc.SC_EMPTY)
             if els is not None:
                 for el in els:
-                    res.append(el[2])
+                    res.append(el[2])"""
+                    
+        #return test cont
+        cont = sc_utils.searchOneShot(session.search3_f_a_a(sc_test_res_1, sc.SC_A_CONST|sc.SC_POS, sc.SC_CONST|sc.SC_NODE))[2]
+        
+        search_res_list = session.search3_f_a_a(cont, sc.SC_A_CONST|sc.SC_POS, sc.SC_CONST)
+        if search_res_list is not None:
+            for search_res in search_res_list:
+                res.append(search_res[2])
+        
                     
         #add sheet with type YMAPSML to display answer to
         

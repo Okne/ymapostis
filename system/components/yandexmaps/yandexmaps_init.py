@@ -34,7 +34,6 @@ import sc2yandexmaps
 import yandexmaps_environment as env
 
 def initialize():
-    
     kernel = core.Kernel.getSingleton()
     
     from suit.core.objects import Factory
@@ -49,13 +48,11 @@ def initialize():
     kernel.registerTranslatorFactory(translsc2yandmap_factory, [keynodes.ui.format_sc], [keynodes.ui.format_ymapsml])
 
 def shutdown():
-    
     global view_factory
     global translsc2yandmap_factory
     kernel = core.Kernel.getSingleton()
     kernel.unregisterViewerFactory(view_factory)
-    kernel.unregisterTranslatorFactory(translsc2yandmap_factory)
-    
+    kernel.unregisterTranslatorFactory(translsc2yandmap_factory)    
 
 
 def _resourceLocations():

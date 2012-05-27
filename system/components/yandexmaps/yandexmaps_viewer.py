@@ -160,13 +160,13 @@ class YandexMapsViewer(BaseModeLogic):
             _cont_data = _cont.convertToCont()
             self.script = str(_cont_data.d.ptr)
 
-            data = self.script.decode('cp1251')
+            file_addr = self.script.decode('cp1251')
             #TODO: get coordinates of object from yandex.map geocoder
             #coords = yandex_api.geocode(api_key, address)
             #coords = (u'60.603826', u'56.854581')           
             
             #url = yandex_api.get_map_url(env.api_key, coords[0], coords[1], 5, 200, 300)
-            dataToPaste = {'title': "Test", 'api_key': env.api_key, 'script': data}
+            dataToPaste = {'title': "Test", 'api_key': env.api_key, 'file_address': file_addr}
             
             #get template
             template = self._fileToStr()
