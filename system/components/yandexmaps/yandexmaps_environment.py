@@ -30,6 +30,7 @@ Created on 03.02.2010
 
 import os
 import suit.core.kernel as core
+import urllib2
 
 resource_group      =   'yandexmap'
 resource_dir        =   os.path.join(os.path.dirname(__file__), "media")
@@ -43,8 +44,8 @@ mapFileName = os.path.join(os.path.dirname(__file__), "map.html")
 testData = os.path.join(os.path.dirname(__file__), "testData.xml")
 wwwDir = os.path.join(os.path.dirname(__file__), "www")
 uploadedDir = os.path.join(wwwDir, "uploaded")
-server_address = "http://195.50.17.209:8088/"
-#server_address = "http://localhost:8088/"
+#server_address = "http://195.50.17.209:8088/"
+server_address = "http://178.120.25.151:8088/"
 
 
 #api_key = "AJ-8lk8BAAAA-XpFDwQAoJN8eB59A0iz1F1M1tRGnzO-7H0AAAAAAAAAAABMVbn1rJgaBBtgmNsMsBM0CTAf7A=="

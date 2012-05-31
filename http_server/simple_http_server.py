@@ -24,6 +24,7 @@ Created on 03.02.2012
 class MySimpleHttpServerHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
     
     def translate_path(self, path):
+        path = SimpleHTTPServer.SimpleHTTPRequestHandler.translate_path(self, path)
         if path.startswith(os.path.altsep):
             path = os.path.join(uploaded_folder, path[1:])
         return os.path.normpath(path)
