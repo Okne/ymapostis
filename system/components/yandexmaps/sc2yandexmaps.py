@@ -274,7 +274,7 @@ class ScToYMapsMLTranslator(Translator):
             file_name = self._generate_filename()
             self._send_data_to_server(file_name, data)
             #set returned script to _output node content
-            session.set_content_str(_output, env.server_address + file_name)            
+            session.set_content_str(_output, env.server_address + "/file/"+file_name)            
                 
         errors = []
         print "sc2yandexmaps finish translation"
@@ -292,14 +292,30 @@ class ScToYMapsMLTranslator(Translator):
         
         # headers contains the necessary Content-Type and Content-Length
         # datagen is a generator object that yields the encoded parameters
-        tmp_file = tempfile.TemporaryFile()
-        tmp_file.write(send_data)
-        datagen, headers = multipart_encode({file_name: tmp_file})
+        #tmp_file = tempfile.TemporaryFile()
+        #tmp_file.write(send_data)
+        #datagen, headers = multipart_encode({file_name: tmp_file})
+        send_data = unicode(send_data, "cp1251")
+        body = send_data.encode('unicode-escape').strip()
+        
+        #install proxy handler in case of working through proxy server
+        if env.is_proxy:
+            proxy_handler = urllib2.ProxyHandler({"http": env.http_proxy_full_auth_string}) 
+            opener = urllib2.build_opener(proxy_handler)
+            urllib2.install_opener(opener)            
+
+        request = urllib2.Request(env.server_address + "/upload?filename=" + file_name, body)
+        request.add_header('Content-length', str(len(body)))
+        request.add_header('Content-Type', 'application/atom+xml; charset=\"UTF-8\"')
+
+        response = urllib2.urlopen(request)
         
         # Create the Request object
-        request = urllib2.Request(env.server_address, datagen, headers)
+        #request = urllib2.Request(env.server_address + "/upload", datagen, headers)
         # Actually do the request, and get the response
-        print urllib2.urlopen(request).read()
-        tmp_file.close()
+        #print urllib2.urlopen(request).read()
+        #print urllib2.urlopen(request)
+        print response.read()
+        #tmp_file.close()
        
             

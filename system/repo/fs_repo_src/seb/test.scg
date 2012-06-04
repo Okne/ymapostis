@@ -1,14 +1,18 @@
 #include "ordinal.scsy"
 #include "meta_info.scsy"
 #include "ui_keynodes.scsy"
+test\AdmCenter.gwf
 test\AllMinsk.gwf
 test\doroga_ready.gwf
 test\geo_test.gwf
 test\GranObl.gwf
+test\InfaOAdmRaione.gwf
 test\lui_test.gwf
+test\MinskDistr.gwf
 test\s2t_test1.gwf
 test\test_ui_cmds.gwf
 test\triangle.gwf
 test\true1.gwf
+test\Vklych.gwf
 test\тест поиска отношения.gwf
 
