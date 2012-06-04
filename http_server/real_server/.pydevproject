@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?>
+
+<pydev_project>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">E:\Python25\python.exe</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.5</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/server/src</path>
+</pydev_pathproperty>
+<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+<path>E:\Google\google_appengine</path>
+<path>E:\Google\google_appengine\lib\httplib2\httplib2</path>
+<path>E:\Google\google_appengine\lib\django_1_3\django</path>
+<path>E:\Google\google_appengine\lib\webapp2</path>
+<path>E:\Google\google_appengine\lib\yaml</path>
+</pydev_pathproperty>
+</pydev_project>
