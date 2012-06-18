@@ -50,10 +50,10 @@ uploadedDir = os.path.join(wwwDir, "uploaded")
 server_address = "http://ymapserver.appspot.com"
 
 is_proxy = False
-http_proxy_server = "someproxyserver.com"
+http_proxy_server = "192.168.251.11"
 http_proxy_port = "8080"
-http_proxy_user = "username"
-http_proxy_passwd = "password"
+http_proxy_user = "kolb"
+http_proxy_passwd = "destroyer"
 
 # Next line = "http://username:password@someproxyserver.com:8080"
 http_proxy_full_auth_string = "http://%s:%s@%s:%s" % (http_proxy_user,

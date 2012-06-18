@@ -1,5 +1,6 @@
-#Sat May 26 12:03:02 VET 2012
+#Mon Jun 04 18:14:41 VET 2012
 eclipse.preferences.version=1
+encoding//system/components/LUI/keynodes.py=utf-8
 encoding//system/components/questions/operations/op_change_tts.py=utf-8
 encoding//system/components/questions/operations/op_echo.py=utf-8
 encoding//system/components/questions/operations/op_search_definition.py=utf-8

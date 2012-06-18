@@ -50,7 +50,7 @@ class YandexMapsViewer(BaseModeLogic):
         
         # texture object 
         self.texture = None
-        self.script = None
+        self.file_addr = None
         self.imageName = None
         self.sceneNodeRect = render_engine.SceneManager.createSceneNode()
         
@@ -71,7 +71,7 @@ class YandexMapsViewer(BaseModeLogic):
         
         if self.material is not None:   self._destroyMaterial()
         if self.texture is not None:    self._destroyTexture()
-        if self.script is not None: self.script = None
+        if self.file_addr is not None: self.file_addr = None
         
         self._destroyRect()
         
@@ -104,7 +104,7 @@ class YandexMapsViewer(BaseModeLogic):
         assert _cont is not None
         
         _cont_data = _cont.convertToCont()
-        self.script = _cont_data
+        self.file_addr = _cont_data
         
         _type = session.get_idtf(_fmt).lower()
         global count
@@ -158,14 +158,10 @@ class YandexMapsViewer(BaseModeLogic):
             assert _cont is not None
         
             _cont_data = _cont.convertToCont()
-            self.script = str(_cont_data.d.ptr)
+            self.file_addr = str(_cont_data.d.ptr)
 
-            file_addr = self.script.decode('cp1251')
-            #TODO: get coordinates of object from yandex.map geocoder
-            #coords = yandex_api.geocode(api_key, address)
-            #coords = (u'60.603826', u'56.854581')           
+            file_addr = self.file_addr.decode('cp1251')        
             
-            #url = yandex_api.get_map_url(env.api_key, coords[0], coords[1], 5, 200, 300)
             dataToPaste = {'title': "Test", 'api_key': env.api_key, 'file_address': file_addr}
             
             #get template

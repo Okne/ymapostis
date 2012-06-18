@@ -286,15 +286,7 @@ class ScToYMapsMLTranslator(Translator):
     
     def _send_data_to_server(self, file_name, send_data):
         register_openers()
-        # Start the multipart/form-data encoding of the file "DSC0001.jpg"
-        # "geo_data" is the name of the parameter, which is normally set
-        # via the "name" parameter of the HTML <input> tag.
         
-        # headers contains the necessary Content-Type and Content-Length
-        # datagen is a generator object that yields the encoded parameters
-        #tmp_file = tempfile.TemporaryFile()
-        #tmp_file.write(send_data)
-        #datagen, headers = multipart_encode({file_name: tmp_file})
         send_data = unicode(send_data, "cp1251")
         body = send_data.encode('unicode-escape').strip()
         
@@ -309,13 +301,6 @@ class ScToYMapsMLTranslator(Translator):
         request.add_header('Content-Type', 'application/atom+xml; charset=\"UTF-8\"')
 
         response = urllib2.urlopen(request)
-        
-        # Create the Request object
-        #request = urllib2.Request(env.server_address + "/upload", datagen, headers)
-        # Actually do the request, and get the response
-        #print urllib2.urlopen(request).read()
-        #print urllib2.urlopen(request)
         print response.read()
-        #tmp_file.close()
        
             

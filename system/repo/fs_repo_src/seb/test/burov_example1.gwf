@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/relation" idtf="координаты*" shapeColor="0" id="21414192" parent="0" left="0" top="0" right="89" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="265" y="53" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="58094320" parent="0" x="398" y="162" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[27.55443 53.907021]]></content>
+        </node>
+        <node type="node/const/general_node" idtf="Минск" shapeColor="0" id="58094464" parent="0" left="0" top="0" right="47" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="155" y="161" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="WGS-84" shapeColor="0" id="58095328" parent="0" left="0" top="0" right="54" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="465" y="62" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="58086560" parent="0" id_b="58094464" id_e="58094320" b_x="155" b_y="161" e_x="398" e_y="162" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="58089584" parent="0" id_b="58095328" id_e="58094320" b_x="465" b_y="62" e_x="398" e_y="162" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="58086392" parent="0" id_b="21414192" id_e="58086560" b_x="265" b_y="53" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.491949">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>
