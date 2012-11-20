@@ -35,7 +35,6 @@ import suit.core.objects as objects
 import ogre.renderer.OGRE as ogre
 import suit.core.render.engine as render_engine
 import yandexmaps_environment as env
-import yandex_maps.api as yandex_api
 
 count = 0
 
